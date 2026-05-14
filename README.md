@@ -1,33 +1,19 @@
-#### CFPB Open Source Project Template Instructions
+# Neighborhood Lab DSM
 
-1. Create a new project.
-2. [Copy these files into the new project](#installation)
-3. Update the README, replacing the contents below as prescribed.
-4. Add any libraries, assets, or hard dependencies whose source code will be included
-   in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
-  - If no exceptions are needed, remove that section from TERMS.
-5. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
-6. Delete these instructions and everything up to the _Project Title_ from the README.
-7. Write some great software and tell people about it.
+**What this project is.**
+Neighborhood Lab DSM is an open-source initiative dedicated to mapping and analyzing the local dynamics of Des Moines. It combines community-level data with historical and policy research to create a clearer picture of how our city functions at the street level.
 
-> Keep the README fresh! It's the first thing people see and will make the initial impression.
+**The problem.**
+Vital information about our city—like zoning laws, economic trends, and historical development—is often scattered across dense government portals or locked in academic silos. This makes it difficult for residents to understand the "why" behind the changes in their backyards or to advocate for meaningful improvements in their own neighborhoods.
 
-## Installation
+**Why it matters.**
+This project bridges the gap between raw data and community action. By centralizing Des Moines-specific resources and asset maps, we provide a shared toolkit for residents, researchers, and local organizers.
 
-To install all of the template files, run the following script from the root of your project's directory:
+**How it improves lives.**
 
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/main/open-source-template.sh)"
-```
-
-----
-
-# Project Title
-
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+* **Access:** It translates complex public policy and economic data into plain-language insights that anyone can use.
+* **Empowerment:** It gives neighbors the evidence-based tools they need to participate in local government and urban planning conversations.
+* **Connection:** It creates a digital commons where data helps tell the story of our neighborhoods, fostering a more informed and engaged Des Moines.
 
 Other things to include:
 
