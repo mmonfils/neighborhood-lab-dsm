@@ -23,5 +23,3 @@ This project bridges the gap between raw data and community action. By centraliz
 * **The Block Coalition Toolkit:** A one-page guide for local leadership.
 * **Favor Bank Manual:** Guidelines on community reciprocity.
 * **Resource Maps:** Data-driven street-level analysis of Des Moines.
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
