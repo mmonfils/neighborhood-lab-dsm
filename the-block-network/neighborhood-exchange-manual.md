@@ -20,11 +20,11 @@ To keep the system stable and fair, all participants agree to these five standar
 * **Step 1: Identify a Need.** (e.g., "I need someone to help me move a couch" or "I need a 20-minute tutorial on using GitHub.")
 * **Step 2: Check the Index.** Consult your block's copy of **The Block Toolkit** to find neighbors with a matching skill.
 * **Step 3: Make the Ask.** Reach out and propose the trade.
-* **Step 4: Execute & Log.** Once the exchange is done, log the hours in your block's copy of **The Exchange Log Template**.
+* **Step 4: Execute & Log.** Once the exchange is done, log the hours in your block's copy of **The Exchange Log Template** (`exchange-log-template.csv`).
 
 ---
 
-## 4. Understanding The Block Toolkit (`block-toolkit.csv`)
+## 4. Understanding The Block Toolkit (`block-toolkit-template.csv`)
 When setting up a new block registry using our standardized CSV template, use this reference guide to fill out and understand the columns:
 
 * **name:** The first name of the neighbor. This column serves as the title label for the map marker when uploaded to digital tools.
@@ -44,7 +44,7 @@ To make your street's inventory easy to view, **The Block Toolkit** is fully com
 
 Because looking up precise GPS coordinates can be difficult for everyday neighbors, the template utilizes a **placeholder approach**:
 1. **Keep the Defaults:** When adding a new neighbor to the spreadsheet, leave the preset numbers in the `latitude` and `longitude` columns as they are, or duplicate the coordinates from the line above. 
-2. **Import the File:** Create a new map on uMap, click the **Import Data** button (the arrow icon on the right sidebar), choose your `block-toolkit.csv` file, select **csv** as the format, and upload it.
+2. **Import the File:** Create a new map on uMap, click the **Import Data** button (the arrow icon on the right sidebar), choose your `block-toolkit-template.csv` file, select **csv** as the format, and upload it.
 3. **Drag-and-Drop to Adjust:** All your neighborhood pins will initially land on a single default spot in central Des Moines. Click the **Edit** (pencil) icon on uMap, select a pin, and simply drag it directly onto the correct house or property on your street. uMap will automatically update the coordinates on the backend.
 4. **Save and Share:** Save your map layer. You can embed it back into your local chat or keep it as a visual index for the block network.
 
