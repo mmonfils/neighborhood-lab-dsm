@@ -19,7 +19,8 @@ This project bridges the gap between raw data and community action. By centraliz
 ## Operational Infrastructure: The Block Network
 While the root repository acts as our macro research desk, all neighborhood-facing assets are deployed through our action folder: [`/the-block-network/`](./the-block-network/). 
 
-This dedicated space houses the street-level tools designed to model democratic federalism and practical asset-based community development on individual city blocks:
+This dedicated space houses the street-level templates designed to model democratic federalism and practical asset-based community development on individual city blocks:
 * **The Block Network:** Our overarching framework for connecting individual, self-governing streets into a decentralized, block-to-block civic network.
-* **The Block Toolkit:** The practical resource map template (`block-toolkit.csv`) used by neighbors to inventory collective skills, tools, and shared spaces.
-* **The Neighborhood Exchange:** A localized system and manual (`neighborhood-exchange-manual.md`) for swapping favors and sharing talents without money changing hands.
+* **The Block Toolkit:** The practical resource map template (`block-toolkit-template.csv`) used by neighbors to inventory collective skills, tools, and shared spaces.
+* **The Neighborhood Exchange:** A localized system and operational manual (`neighborhood-exchange-manual.md`) for swapping favors and sharing talents without money changing hands.
+* **The Exchange Log:** A decentralized ledger template (`exchange-log-template.csv`) utilized by individual blocks to seamlessly track shared time credits.
