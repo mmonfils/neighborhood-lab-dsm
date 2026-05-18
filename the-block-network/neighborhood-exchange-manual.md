@@ -2,7 +2,9 @@
 *A Non-Monetary System for Neighborhood Reciprocity*
 
 ## 1. Core Philosophy: The Power of the Hour
-The Neighborhood Exchange is based on the **TimeBanking** model developed by Dr. Edgar Cahn. It operates on a simple, evidence-based principle: **One hour equals one credit.** **Equal Value:** An hour of yard work is worth the same as an hour of legal advice or history research.
+The Neighborhood Exchange is based on the **TimeBanking** model developed by Dr. Edgar Cahn. It operates on a simple, evidence-based principle: **One hour equals one credit.**
+
+* **Equal Value:** An hour of yard work is worth the same as an hour of legal advice or history research.
 * **Asset-Based:** Everyone has something to contribute (Asset-Based Community Development).
 * **Non-Market:** This system does not replace the economy; it strengthens the "social glue" that markets cannot provide.
 
