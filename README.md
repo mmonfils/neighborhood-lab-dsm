@@ -21,5 +21,5 @@ While the root repository acts as our macro research desk, all neighborhood-faci
 
 This dedicated space houses the street-level tools designed to model democratic federalism and practical asset-based community development on individual city blocks:
 * **The Block Network:** Our overarching framework for connecting individual, self-governing streets into a decentralized, block-to-block civic network.
-* **The Block Toolkit:** The practical resource map template (`the-block-toolkit.csv`) used by neighbors to inventory collective skills, tools, and shared spaces.
+* **The Block Toolkit:** The practical resource map template (`block-toolkit.csv`) used by neighbors to inventory collective skills, tools, and shared spaces.
 * **The Neighborhood Exchange:** A localized system and manual (`neighborhood-exchange-manual.md`) for swapping favors and sharing talents without money changing hands.
