@@ -7,7 +7,7 @@ This project adheres to [Semantic Versioning 2.0.0](http://semver.org/).
 
 ### Added
 * Created the dedicated action folder `the-block-network/` to house public-facing neighborhood tools separately from macro research tracking.
-* Added `block-toolkit.csv` as the standardized resource mapping template for block-level asset tracking.
+* Added `block-toolkit-template.csv` as the standardized resource mapping template for block-level asset tracking and uMap integration.
 * Added `exchange-log-template.csv` to establish a decentralized self-reporting method for tracking neighbor hours.
 
 ### Changed
@@ -16,7 +16,7 @@ This project adheres to [Semantic Versioning 2.0.0](http://semver.org/).
   * *Favor Bank* $\rightarrow$ **The Neighborhood Exchange**
   * *Community Ledger / Coalition Ledger* $\rightarrow$ **The Exchange Log**
 * Reorganized the repository root level to position **Neighborhood Lab DSM** as the primary research and data hub.
-* Cleaned repository file infrastructure by formatting template assets to lower-case, command-line optimized names (`block-toolkit.csv` and `exchange-log-template.csv`).
+* Cleaned repository file infrastructure by formatting template assets to lower-case, command-line optimized names (`block-toolkit-template.csv` and `exchange-log-template.csv`).
 * Rewrote `README.md` to cleanly separate macro-level policy/history research from the street-level organizing folder.
 * Updated `CONTRIBUTING.md` to provide clearer onboarding workflows for both local data researchers and street-level neighbors.
 * Renamed and updated `toolkit/favor-bank-manual.md` to `the-block-network/neighborhood-exchange-manual.md`.
