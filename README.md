@@ -16,11 +16,14 @@ This project bridges the gap between raw data and community action. By centraliz
 
 ---
 
-## Operational Infrastructure: The Block Network
-While the root repository acts as our macro research desk, all neighborhood-facing assets are deployed through our action folder: [`/the-block-network/`](./the-block-network/). 
+## Data Repositories & Analytics
+* **`data-resources.csv`:** Centralized, formatted local community assets and public data sets (including Des Moines Public Library resource records) structured for GIS and interactive map rendering.
 
-This dedicated space houses the street-level templates designed to model democratic federalism and practical asset-based community development on individual city blocks:
-* **The Block Network:** Our overarching framework for connecting individual, self-governing streets into a decentralized, block-to-block civic network.
-* **The Block Toolkit:** The practical resource map template (`block-toolkit-template.csv`) used by neighbors to inventory collective skills, tools, and shared spaces.
-* **The Neighborhood Exchange:** A localized system and operational manual (`neighborhood-exchange-manual.md`) for swapping favors and sharing talents without money changing hands.
-* **The Exchange Log:** A decentralized ledger template (`exchange-log-template.csv`) utilized by individual blocks to seamlessly track shared time credits.
+---
+
+## Operational Infrastructure: The Block Network
+While the data files handle macro research tracking, all street-level, neighborhood-facing tools live directly in this repository to model asset-based community development:
+
+* **The Block Network Framework:** Our overarching structure for connecting individual, self-governing streets into a decentralized, block-to-block civic network.
+* **`block-toolkit-template.csv`:** The practical resource map template used by neighbors to inventory collective skills, tools, and shared spaces.
+* **`neighborhood-exchange-manual.md`:** A localized system and operational manual for swapping favors and sharing talents without money changing hands.
