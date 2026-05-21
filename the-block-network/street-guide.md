@@ -18,4 +18,4 @@ This guide keeps our neighborhood network moving safely and smoothly. It is a si
 * **Step 1: The Porch Chat:** Invite two or three trusted neighbors over for a casual conversation on the porch to see if they want to build a safety net for the street.
 * **Step 2: The Block Grid Mapping:** Use our simple local template to write down who has what tool, who can help with emergency childcare, and who can pitch in during a major central Iowa winter storm.
 * **Step 3: Setting Up Communication:** Choose a direct contact method that everyone can easily use, whether that means a basic group text loop, a Signal thread, or simply agreeing to drop a note in each other's mailboxes.
-* **Step 4: The Seasonal Check-in:** Gather twice a year—once during spring yard cleanup and once before the winter snow hits—to quickly update the spreadsheet and rotate the coordination tasks to a new neighbor.
+* **Step 4: The Seasonal Check-in:** Gather twice a year - once during spring yard cleanup, and once before the winter snow hits - to quickly update the spreadsheet and rotate the coordination tasks to a new neighbor.
