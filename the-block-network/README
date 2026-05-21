@@ -1,0 +1,38 @@
+# Datasets Index: The Library Ledger & Processing Rules
+
+## 1. What This Folder Is
+* **The Library Ledger:** This directory serves as the centralized clearinghouse for raw and reformatted regional data collections in Central Iowa. 
+* **The Goal:** To take scattered, overly complex public policy maps and municipal resource registries and flatten them into highly readable files that do not require specialized GIS software.
+* **Lab Notes Integration:** This index functions as the structural data backbone of our macro research desk, enabling clear, facts-first reporting on how public investments match real street-level needs.
+
+---
+
+## 2. Active Civic Datasets
+* **`dmpl_community_resources.csv`:** The master asset map cataloging community support programs, neighborhood groups, and civic networks compiled across the Des Moines Public Library (DMPL) footprint.
+* **`data-resources.csv`:** Standardized regional listings structured with simple latitude and longitude columns for straightforward plotting on independent, open-source neighborhood grids.
+
+---
+
+## 3. Asset Processing & Data Placement Rules
+To keep our digital commons decentralized and easily understood by local families and community partners, all incoming civic dataset contributions must follow these strict format standards:
+
+### Mapping Fixed Footprints
+* Institutional assets or service centers with fixed physical locations (such as library branches, food pantries, or community centers) are mapped directly to their verified street addresses.
+
+### Handling Distributed or Systemic Programs
+* For regional systems, digital hotlines, or mobile programs lacking a single storefront, do not create confusing standalone markers. 
+* **The Branch Distribution Rule:** Distribute these resources evenly across all 6 local DMPL neighborhood branches (Central, East Side, Franklin Avenue, North Side, South Side, and Forest Avenue). This ensures a neighbor using their local branch as an anchor point can instantly see all systemic resources available to them.
+
+### Resolving Missing Administrative Data
+* For vital local advocacy groups listing only a generic P.O. Box or administrative address, researchers must locate their real, street-level program sites or neighborhood meeting spots. 
+* Place the physical map pin where the face-to-face community work actually happens, ensuring our data reflects real street-level infrastructure rather than corporate or bureaucratic paperwork.
+
+---
+
+## 4. Anti-Gatekeeping Data Formatting
+* **Strict Flat Structures:** All data must be saved as standard, comma-separated values (`.csv`) using lowercase, command-line optimized naming conventions.
+* **No Specialized Tooling:** We strictly ban complex, nested database formats or proprietary software layers that require professional credentials or advanced training to interpret.
+* **Open Schema Standards:** Every file must maintain explicit, plain-language text headers (e.g., `name`, `street_address`, `resource_type`, `description`) so it can be parsed instantly by simple text editors or free mapping utilities.
+
+---
+*All datasets stored in this repository are verified by local neighbors and stripped of private identifying data before publication to protect the safety of our block networks.*
