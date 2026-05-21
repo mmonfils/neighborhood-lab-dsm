@@ -1,4 +1,4 @@
 Date,Provider_Name,Receiver_Name,Hours_Exchanged,Description_of_Service,Status
-5/18/2026,Neighbor A,Neighbor B,1.5,Helped move a living room couch,Completed
-5/19/2026,Neighbor B,Neighbor C,1,Plumbing troubleshooting for kitchen sink,Completed
-5/20/2026,Neighbor C,Neighbor D,2,Gave a local neighborhood history tour,Completed
+2026-05-18,Neighbor A,Neighbor B,1.5,Helped move a living room couch,Completed
+2026-05-19,Neighbor B,Neighbor C,1.0,Plumbing troubleshooting for kitchen sink,Completed
+2026-05-20,Neighbor C,Neighbor D,2.0,Gave a local neighborhood history tour,Completed
