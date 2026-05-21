@@ -1,5 +1,4 @@
-name,Block_ID,Street_Name,Contact_Method,Strengths_and_Skills,Tools_to_Share,Spaces_Available,Exchange_Status,latitude,longitude
-Neighbor A,DSM-01,Grand Ave,Signal/Text,"Local policy tracking, local history, GitHub basics","Lawn mower, ladder, power drill",Front porch for meetings,Active,41.5868,-93.625
-Neighbor B,DSM-01,Grand Ave,Signal/Text,"Gardening, pet sitting, neighborhood walk-alongs",Shovels,Backyard patio,Active,41.5868,-93.6251
-Neighbor C,DSM-01,Grand Ave,Email/Flyer,"Minor home repairs, plumbing troubleshooting",Socket wrench set,None,Active,41.587,-93.6255
-Neighbor D,DSM-01,Grand Ave,Text,"Tutoring (high school math), resume editing",None,Driveway for block sales,Inactive,41.5865,-93.6248
+Household_ID,Asset_Category,Specific_Asset,Availability_Notes,Direct_Contact,Last_Verified
+H01,Tool,10-foot ladder,Weekends only,Knock on side door,Spring Audit
+H02,Care_Network,Emergency childcare,Evenings only,Text phone tree,Winter Audit
+H03,Space,Open garage for repairs,By appointment,Drop note in mailbox,Spring Audit
