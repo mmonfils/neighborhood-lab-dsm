@@ -1,22 +1,28 @@
-# Changelog
+# Project Changes
 
-All notable changes to this project will be documented in this file.
-This project adheres to [Semantic Versioning 2.0.0](http://semver.org/).
+All notable updates to this project are recorded here. This project follows standard semantic versioning rules.
+
+## [1.1.0] - 2026-05-23
+
+### Added
+* Created `our-approach.md` in the root directory to house our core theoretical frameworks in one clear place.
+
+### Changed
+* **Folder Structure Overhaul:** Renamed the narrow `policy-analysis/` folder to `the-big-picture/` to give wide ranging legal, political, and economic research more breathing room.
+* **Simplifying Content:** Cleaned out repetitive descriptions across all folder directories to make the repository tighter and easier to read.
+* **Language Polish:** Removed all professional jargon and academic phrasing from the data guides, shifting `README (datasets).md` to a non specific neighborhood hub model called **The Neighborhood Index**.
+* **Streamlining Core Files:** Updated `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` to remove corporate phrasing and match our true backyard fence tone.
 
 ## [1.0.0] - 2026-05-18
 
 ### Added
-* Created the dedicated action folder `the-block-network/` to house public-facing neighborhood tools separately from macro research tracking.
-* Added `block-toolkit-template.csv` as the standardized resource mapping template for block-level asset tracking and uMap integration.
-* Added `exchange-log-template.csv` to establish a decentralized self-reporting method for tracking neighbor hours.
+* Created the dedicated action folder `block-network/` to house public facing neighborhood tools separately from macro research tracking.
+* Added `neighborhood-toolkit-template.csv` as the standardized resource mapping template for block level asset tracking.
+* Added `exchange-log-template.csv` to establish a decentralized self reporting method for tracking neighbor hours.
 
 ### Changed
-* **Term Renaming Overhaul:** Migrated project ecosystem vocabulary to finalized community-casual terms:
-  * *Block Coalition* $\rightarrow$ **The Block Network**
-  * *Favor Bank* $\rightarrow$ **The Neighborhood Exchange**
-  * *Community Ledger / Coalition Ledger* $\rightarrow$ **The Exchange Log**
-* Reorganized the repository root level to position **Neighborhood Lab DSM** as the primary research and data hub.
-* Cleaned repository file infrastructure by formatting template assets to lower-case, command-line optimized names (`block-toolkit-template.csv` and `exchange-log-template.csv`).
-* Rewrote `README.md` to cleanly separate macro-level policy/history research from the street-level organizing folder.
-* Updated `CONTRIBUTING.md` to provide clearer onboarding workflows for both local data researchers and street-level neighbors.
-* Renamed and updated `toolkit/favor-bank-manual.md` to `the-block-network/neighborhood-exchange-manual.md`.
+* **Term Renaming Overhaul:** Migrated project ecosystem vocabulary to finalized community casual terms.
+* Reorganized the repository root level to position Neighborhood Lab DSM as the primary research and data hub.
+* Cleaned repository file infrastructure by formatting template assets to lower case, command line optimized names.
+* Rewrote the main `README.md` to cleanly separate macro level research from the street level organizing folder.
+* Updated onboarding workflows for both local data researchers and street level neighbors.
