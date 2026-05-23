@@ -4,7 +4,7 @@ Neighborhood Lab DSM is an open experiment. You do not need to be a data scienti
 
 ## How You Can Contribute
 
-1. **The Big Picture Research:** If you are tracking down how a state law, a regional development project, or corporate funding networks are pressuring central Iowa, add your write ups or timelines to our `the-big-picture/` directory.
+1. **The Big Picture Research:** If you are tracking down how a state law, a regional development project, or corporate funding networks are pressuring central Iowa, add your write ups or timelines to our `big-picture/` directory.
 2. **Set Up a Block Grid:** Use the templates and workflows inside `block-network/` to launch a hyper local network right on your own street.
 3. **Refine the Tools:** If you find a better way to structure our offline paper logs or want to improve the step by step organizing steps, share your ideas with us.
 
