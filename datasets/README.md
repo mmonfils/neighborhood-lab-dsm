@@ -1,9 +1,13 @@
-# The Library Ledger
+# The Neighborhood Index
 
-This folder holds the data guidelines for mapping local public resources, starting with the Des Moines Public Library branches.
+***
+*Note from the block: We are currently focusing our energy on building out the policy analysis and the block network guides, so this datasets section is just a placeholder for now. We will start mapping out local resources together soon. If you want to help get this section off the ground, pull up a chair and let us know!*
+***
+
+This folder holds our data guidelines for indexing public resources and community information across our neighborhoods. We track things like local hubs, public spaces, and open community assets so anyone can easily look up what they need.
 
 ## Rules for Keeping Data Accessible
 
-* Keep all data in flat, standard spreadsheet files so anyone can open them without special software.
-* Do not hide data behind complex online mapping tools or digital paywalls.
-* Anchor public resources to known neighborhood hubs, like the six local library branches, so the data stays useful for people on the ground.
+* **Keep it simple.** Keep all data in flat, standard spreadsheet files so anyone can open them on a basic computer without needing special software or data training.
+* **No gatekeeping.** Do not hide community data behind complex online mapping tools, specialized dashboards, or digital paywalls. If a neighbor cannot easily read it, it does not belong here.
+* **Grounded and useful.** Focus on tracking information that directly helps people navigate the neighborhood and look out for each other. This keeps our index focused on real community needs rather than abstract statistics.
