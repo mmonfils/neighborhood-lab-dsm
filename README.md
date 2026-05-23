@@ -1,17 +1,22 @@
 # Neighborhood Lab DSM
 
-This project looks at how we can track public policy decisions from the top down while building strong, independent groups on our own blocks from the ground up. 
+This project is a space where we track how top down legal, economic, and political decisions affect our community, while building strong, independent networks on our own blocks from the ground up. 
 
-## How It Is Organized
-
-* policy-analysis/
-  * This folder is where we write down how big laws, corporate lobbying, and state decisions change local neighborhoods in central Iowa.
-* datasets/
-  * This folder contains simple, flat-format resource lists to map out assets available through the Des Moines Public Library system without gatekeeping.
-* block-network/
-  * This folder contains the practical, everyday tools neighbors use to look after each other, share items, and organize blocks without using money.
+We look at our neighborhoods as places that are already rich with skills and care, rather than spaces that need to be saved or managed by outside bureaucracies.
 
 ## The Ground Rules
 
-* We do not use professional or academic jargon. Everything is written like a conversation over a backyard fence.
-* We do not track or log any data that could compromise individual neighbor privacy.
+* **Talk like neighbors.** We do not use professional or academic jargon here. Everything is written like a conversation over a backyard fence.
+* **Protect each other's privacy.** We do not track, log, or store personal data on public servers, corporate cloud links, or shared internet databases. 
+* **Keep data local.** All block maps and resource lists stay strictly with the households participating on that specific block grid. If outside institutional programs ask for our files, we politely say no.
+
+## How the Project Is Organized
+
+* **our-approach.md**
+  * The core ideas behind our project, explaining how we view local power, history, and community strength.
+* **the-big-picture/**
+  * Our community research space. This is where we document how corporate strategies, court rulings, state laws, and financial trends put pressure on central Iowa streets.
+* **datasets/**
+  * The Neighborhood Index. Guidelines for tracking public assets and community resources using plain, accessible spreadsheets.
+* **block-network/**
+  * The Front Porch Manual. The practical, everyday tools and templates neighbors use to look after each other, share items, and organize block grids without money.
