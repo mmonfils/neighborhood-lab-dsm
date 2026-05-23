@@ -1,16 +1,14 @@
-# Neighborhood Lab DSM: Code of Conduct
+# Front Porch Standards
 
 ## Our Goal
-We want to build a stronger Des Moines, block by block. To do that, we need a space that is welcoming, helpful, and respectful of the diverse history and people of our city.
+We want to build a stronger community, block by block. To make that happen, we need a space that is welcoming, helpful, and deeply respectful of the diverse history and people living across central Iowa.
 
 ## Our Standards
-* **Be Neighborly:** Treat every contributor with kindness. We are here to build community, not win arguments.
-* **Share the Chair:** This is a collaborative lab. Listen to local perspectives and respect the lived experience of neighbors.
-* **Focus on Assets:** We look for what is "strong," not just what is "wrong." Keep discussions focused on building solutions and identifying resources.
-* **Stay Local:** Keep the focus on Central Iowa.
 
-## Enforcement
-If you encounter behavior that makes you feel unwelcome or goes against our goal of building a better block, please reach out to the project lead. We reserve the right to remove comments or participants that do not align with these neighborly standards.
+* **Be a good neighbor.** Treat every single person here with basic kindness and respect. We are here to listen to each other and cooperate, not win arguments or prove who is right.
+* **Share the chair.** This is a collaborative space. Listen carefully to local perspectives and respect the actual lived experiences of people on the ground.
+* **Focus on strengths.** We look for what is already strong in our neighborhoods, not just what is wrong. Keep discussions focused on building practical, local solutions together.
+* **Stay local.** Keep your focus firmly on the physical reality of central Iowa neighborhoods rather than getting pulled into national news debates.
 
----
-*Inspired by the Contributor Covenant and the spirit of the front porch.*
+## Looking Out for the Space
+If you run into behavior that feels aggressive, makes people feel unwelcome, or goes against these neighborly guidelines, let the project creators know. We want to keep this space safe and productive, and we will remove comments or participants that refuse to respect the spirit of the front porch.
