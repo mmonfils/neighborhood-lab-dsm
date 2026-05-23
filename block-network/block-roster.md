@@ -1,15 +1,15 @@
 # Sharing Tasks Fairly
 
-This file explains how to distribute block jobs so that everyone helps out and no single person ends up running the show.
+This file explains how to distribute block jobs so that everyone helps out and no single person ends up running the street or acting like a gatekeeper. 
 
 ## Key Tasks
 
-* Roster Helper: Keeps the contact list up to date for the households participating.
-* Notebook Helper: Keeps track of the blank sheets and updates the resource records twice a year.
-* Message Helper: Makes sure everyone knows when a meeting or a shared project is happening.
+* **The Contact Link:** Keeps the local neighbor contact list up to date for the households participating on the street. They make sure everyone knows when a block meeting or a shared porch project is happening.
+* **The Index Helper:** Keeps track of the blank sheets, hands out the paper logs, and helps update the local resource spreadsheet twice a year during our seasonal check ins.
+* **The Tool Keeper:** Keeps an eye on the physical items that the block shares collectively, making sure everything gets returned to the right garage or shed after a cleanup day.
 
 ## Rotation Rules
 
-* Pass these tasks to a different neighbor every few months.
-* No one gets to keep a position permanently or act as a gatekeeper for the network.
-* All logs, files, and lists must stay fully visible to any neighbor on the block who wants to see them.
+* **Pass the chair.** Pass these simple tasks to a different neighbor every few months so nobody gets weighed down with a permanent job.
+* **Total visibility.** No one gets to act as a boss for the network. All paper logs, files, and spreadsheets must stay fully visible to any neighbor on the block grid who wants to look at them.
+* **Keep it local.** If city groups, outside organizations, or institutional programs ask for our block maps or our data lists, we politely say no. This network belongs strictly to the households on the block.
