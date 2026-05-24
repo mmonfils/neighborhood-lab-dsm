@@ -19,3 +19,7 @@ If you want to contribute research, timelines, or brief write ups to this folder
 * **No textbook talk.** Avoid academic jargon, heavy legal terms, and dry political science language. Write your findings clearly, like you are explaining a pattern to a friend on a front porch.
 * **Focus on the pattern.** Show how the specific event you are looking at is part of a larger blueprint to centralize power. 
 * **Keep it grounded.** Always tie the big picture back to the physical reality of our neighborhoods. Explain exactly why a state or federal decision matters to a household living on a central Iowa block grid.
+
+## From the Repository to the Porch
+
+When our community research uncovers a major trend or a new pressure point, we do not let it sit in a dusty GitHub folder. We package these findings into clear, plain language essays and send them out through our Substack newsletter. This ensures our neighbors can read the research on their phones, discuss it at porch chats, and adjust their block spreadsheets before the outside changes hit our doorsteps.
