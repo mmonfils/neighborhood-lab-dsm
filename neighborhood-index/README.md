@@ -1,7 +1,7 @@
 # The Neighborhood Index
 
 ***
-*Note from the block: We are currently focusing our energy on building out the big picture research and the block network guides, so this datasets section is just a placeholder for now. We will start mapping out local resources together soon. If you want to help get this section off the ground, pull up a chair and let us know!*
+*Note from the block: We are currently focusing our energy on building out the big picture research and the block network guides, so this datasets section is just a placeholder for now. We will start mapping out local resources together soon. If you want to help get this section off the ground, pull up a chair and let us know! We will also put out a call for contributors in our next Substack post.*
 ***
 
 This folder holds our data guidelines for indexing public resources and community information across our neighborhoods. We track things like local hubs, public spaces, and open community assets so anyone can easily look up what they need.
