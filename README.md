@@ -14,9 +14,9 @@ We look at our neighborhoods as places that are already rich with skills and car
 
 * **our-approach.md**
   * The core ideas behind our project, explaining how we view local power, history, and community strength.
-* **big-picture/**
+* **tracking-the-blueprint/**
   * Our community research space. This is where we document how corporate strategies, court rulings, state laws, and financial trends put pressure on central Iowa streets.
-* **datasets/**
+* **neighborhood-index/**
   * The Neighborhood Index. Guidelines for tracking public assets and community resources using plain, accessible spreadsheets.
-* **block-network/**
+* **front-porch-manual/**
   * The Front Porch Manual. The practical, everyday tools and templates neighbors use to look after each other, share items, and organize block grids without money.
