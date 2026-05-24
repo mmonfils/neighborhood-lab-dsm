@@ -4,11 +4,11 @@ This folder contains the practical guides and templates for setting up an indepe
 
 ## What is in this Folder
 
-* **street-guide.md**
+* **block-playbook.md**
   * The basic playbook for starting a porch conversation and organizing a block safely.
-* **neighborhood-toolkit.md**
+* **spreadsheet-blueprint.md**
   * The blueprint explaining how to look after the resource spreadsheet without tracking private data.
-* **block-roster.md**
+* **sharing-tasks-fairly.md**
   * How to rotate tasks fairly among neighbors so no one becomes a permanent boss.
 * **neighborhood-toolkit-template.csv**
   * The blank spreadsheet for tracking tools, skills, and emergency storm care on your street.
