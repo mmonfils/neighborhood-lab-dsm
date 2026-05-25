@@ -1,7 +1,7 @@
 # The Neighborhood Index
 
 ***
-*Note from the block: We are currently focusing our energy on building out the big picture research and the block network guides, so this datasets section is just a placeholder for now. We will start mapping out local resources together soon. If you want to help get this section off the ground, pull up a chair and let us know! We will also put out a call for contributors in our next Substack post.*
+*Note from the block: We start by looking at our blocks for what we have, not just what we need. Right now, we are gathering the foundational tools and guidelines to help neighbors map local assets securely. If you want to help map local hubs, tools, or open community spaces across Des Moines without scraping or selling neighbor data, pull up a chair! We coordinate our open community calls and announcements through our Substack newsletter at https://neighborhoodlabdsm.substack.com/ — subscribe there to catch our next invitation for contributors.*
 ***
 
 This folder holds our data guidelines for indexing public resources and community information across our neighborhoods. We track things like local hubs, public spaces, and open community assets so anyone can easily look up what they need.
