@@ -1,3 +1,5 @@
-Date,Household_Giving,Household_Receiving,Task_or_Item_Shared,Notes
-2026-05-10,H01,H03,Lent lawnmower,Returned same day
-2026-05-12,H02,H01,One hour yard work help,Completed
+Date,Household Giving,Household Receiving,Resource Shared,Notes
+2026-05-10,H01,H03,Lent chainsaw and safety gear,Returned clean and gassed up same day
+2026-05-12,H02,H01,Two hours of welding help on broken porch gate,Completed neighbor-to-neighbor
+2026-05-15,H03,H05,Shared advice on local property tax forms,Sat on porch and filled them out together
+2026-05-18,H05,H02,Translated institutional zoning notice,Clear explanation provided over fence
