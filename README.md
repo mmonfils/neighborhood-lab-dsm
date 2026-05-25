@@ -17,6 +17,6 @@ If you are looking for our finished essays, neighborhood stories, and regular up
 ## How the Project Is Organized
 
 * **our-approach.md**: The core philosophy behind our project. This explains how we view local power, structural patterns, and community wealth.
-* **tracking-the-blueprint/**: Our community research space. This is where we document how shifting forces across policy, economy, law, and politics trickle down and put pressure on central Iowa streets.
+* **tracking-the-blueprint/**: Our community research space. This is where we document how shifting forces across the economy, policy, law, and politics trickle down and put pressure on central Iowa streets.
 * **neighborhood-index/**: Frameworks for tracking public assets and community wealth using plain, accessible spreadsheets.
 * **front-porch-manual/**: The practical guides and templates neighbors use to look after each other, share items, and organize block grids independently.
