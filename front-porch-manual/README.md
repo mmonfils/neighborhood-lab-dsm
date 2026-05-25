@@ -14,4 +14,4 @@ While our tracking folder looks at the big structural forces pushing down on us,
 
 ## From the Workshop to the Porch
 
-If your block uses these templates to survive a winter storm, organize a tool share, or handle a local issue, we want to hear about it. Drop us a line or share feedback at a neighborhood meeting. We love featuring real stories from local block grids in our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) to inspire other streets across Des Moines to start their own porch grids.
+If your block uses these templates to survive a winter storm, organize a tool share, or handle a local issue, we want to hear about it. Drop us a line or share feedback at a neighborhood meeting. We love featuring real local stories in our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) to inspire other streets across Des Moines to start their own block grids.
