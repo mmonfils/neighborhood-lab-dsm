@@ -1,6 +1,6 @@
 # Neighborhood Lab DSM
 
-Welcome to the neighborhood space. This project is where we keep our eyes on the big picture—tracking how top-down structural decisions affect our community—while building strong, independent networks right on our own blocks from the ground up. 
+Welcome to the neighborhood space. This project is where we keep our eyes on the big picture - tracking how top-down structural decisions affect our community while building strong, independent networks right on our own blocks from the ground up. 
 
 We look at our Des Moines neighborhoods as places that are already rich with capability, resources, and care, rather than spaces that need to be managed or saved by outside bureaucracies. This repository is our workbench. It holds our collective research and the practical, everyday tools we use to keep decision-making power right where it belongs: on our blocks.
 
@@ -17,6 +17,6 @@ If you are looking for our finished essays, neighborhood stories, and regular up
 ## How the Project Is Organized
 
 * **our-approach.md**: The core philosophy behind our project. This explains how we view local power, structural patterns, and community wealth.
-* **tracking-the-blueprint/**: Our community research space. This is where we document how shifting forces across Policy, Economy, Law, and Politics trickle down and put pressure on central Iowa streets.
+* **tracking-the-blueprint/**: Our community research space. This is where we document how shifting forces across policy, economy, law, and politics trickle down and put pressure on central Iowa streets.
 * **neighborhood-index/**: Frameworks for tracking public assets and community wealth using plain, accessible spreadsheets.
 * **front-porch-manual/**: The practical guides and templates neighbors use to look after each other, share items, and organize block grids independently.
