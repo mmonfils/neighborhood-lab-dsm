@@ -6,15 +6,15 @@ By connecting the dots here, we can see the pressure coming before it reaches ou
 
 ## What We Look Into Here
 
-We do not limit ourselves to one single topic or city ordinance. We track top down pressure across all levels of influence, including:
+We do not limit ourselves to one single topic or city ordinance. We track top-down pressure across all levels of influence, including:
 
-* **Economics and Money:** Following how centralized capital, corporate investments, out of state developers, and corporate lobbies shift funding away from local control.
+* **Economics and Money:** Following how centralized capital, corporate investments, out-of-state developers, and corporate lobbies shift funding away from local control.
 * **Law and Politics:** Documenting how decisions made at the state or federal level restrict what city councils, school boards, and neighborhoods are allowed to decide for themselves.
 * **Local Impacts:** Tracing how these broader, historical shifts directly change everyday life on central Iowa streets, from the cost of housing to the safety of our public spaces.
 
 ## How We Write Our Notes
 
-If you want to contribute research, timelines, or brief write ups to this folder, please keep these guidelines in mind:
+If you want to contribute research, timelines, or brief write-ups to this folder, please keep these guidelines in mind:
 
 * **No textbook talk.** Avoid academic jargon, heavy legal terms, and dry political science language. Write your findings clearly, like you are explaining a pattern to a friend on a front porch.
 * **Focus on the pattern.** Show how the specific event you are looking at is part of a larger blueprint to centralize power. 
@@ -22,4 +22,4 @@ If you want to contribute research, timelines, or brief write ups to this folder
 
 ## From the Repository to the Porch
 
-When our community research uncovers a major trend or a new pressure point, we do not let it sit in a dusty GitHub folder. We package these findings into clear, plain language essays and send them out through our Substack newsletter. This ensures our neighbors can read the research on their phones, discuss it at porch chats, and adjust their block spreadsheets before the outside changes hit our doorsteps.
+When our community research uncovers a major trend or a new pressure point, we do not let it sit in a dusty GitHub folder. We package these findings into clear, plain-language essays and send them out through our Substack newsletter. This ensures our neighbors can read the research on their phones, discuss it at porch chats, and adjust their block spreadsheets before the outside changes hit our doorsteps. To read our latest tracking updates and follow along with the patterns we are tracing, check out our main feed at https://neighborhoodlabdsm.substack.com/ .
