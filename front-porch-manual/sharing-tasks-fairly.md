@@ -1,6 +1,6 @@
 # Sharing Tasks Fairly
 
-This file explains how to distribute block jobs so that everyone helps out and no single person ends up running the street or acting like an institutional gatekeeper. 
+This file explains how to distribute block tasks so that everyone helps out and no single person ends up running the street or acting like an institutional gatekeeper. 
 
 ## Key Tasks
 
