@@ -1,26 +1,26 @@
 # Neighborhood Lab DSM
 
-Welcome to the neighborhood space. This project is where we track how big, top-down legal and financial decisions affect our community, while building strong, independent networks on our own blocks from the ground up. 
+Neighborhood Lab DSM is a neighbor-to-neighbor project about uncovering the skills, tools, and care already sitting on our streets so we can look after each other right where we live. The basic idea is simple: looking at our blocks for what we have, not just what we need.
 
-We look at our Des Moines neighborhoods as places that are already rich with skills, tools, and care, rather than spaces that need to be saved or managed by outside bureaucracies. This repository holds our research and the practical tools we use to keep power right where it belongs: on our blocks.
+This repository serves as a central clearinghouse for the blank templates we use to organize locally and a spot where we track the outside policy and zoning choices that impact quiet residential streets.
 
-***
-*If you want to read plain-language stories, examples, and ongoing updates about how central Iowa blocks are putting these blueprints into practice, pull up a chair and join our neighborhood discussion over on our Substack newsletter at https://neighborhoodlabdsm.substack.com/ .*
-***
+## Finding the Neighborhood Stories
 
-## The Ground Rules
+If you are looking for our conversational neighborhood stories, short essays, and local updates, head over to our main publication page:
 
-* **Talk like neighbors.** We do not use professional, academic, or tech jargon here. Everything is written like a conversation over a backyard fence.
-* **Protect each other's privacy.** We do not track, log, or store personal data on public servers, corporate cloud links, or shared internet databases. 
-* **Keep data local.** All block maps and resource lists stay strictly with the households participating on that specific block grid. If outside institutional programs ask for our files, we politely say no.
+[Neighborhood Lab DSM on Substack](https://neighborhoodlabdsm.substack.com)
 
-## How the Project Is Organized
+---
 
-* **our-approach.md**: The core ideas behind our project. This explains how we view local power, history, and community strength.
-* **tracking-the-blueprint/**: Our community research space. This is where we document how corporate strategies, court rulings, state laws, and financial trends put pressure on central Iowa streets.
-* **neighborhood-index/**: Guidelines for tracking public assets and community resources using plain, accessible spreadsheets.
-* **front-porch-manual/**: The practical, everyday tools and templates neighbors use to look after each other, share items, and organize block grids without money.
+## Repository Architecture
 
-## Read the Newsletter
+The files here are split into four main sections:
 
-We share regular updates, deep dives into local research, and stories from different block grids on our Substack newsletter. It is the main way we connect the work happening in this repository to the broader community across central Iowa. Pull up a chair and subscribe to stay in the loop.
+1. `our-approach.md` (Our Approach): The core ideas and neighborly mindset behind this project.
+2. `tracking-the-blueprint/` (Tracking the Blueprint): Research and documentation pulling back the curtain on the top-down zoning, utility, and policy choices moving through city hall.
+3. `neighborhood-index/` (The Neighborhood Index): Guidelines and ideas for compiling a local map of skills and assets without compromising anybody's household data.
+4. `front-porch-manual/` (The Front Porch Manual): Practical templates, blank spreadsheets, and casual talking points that any block can use to set up its own tracking system.
+
+## Privacy Rules
+
+No personal household information, names, phone numbers, or residential addresses are allowed in this repository. All tracking templates found here are blank frameworks meant to be downloaded and run completely offline by individual neighbors. We do not collect or track data on our neighbors, and we do not share block information with outside organizations.
