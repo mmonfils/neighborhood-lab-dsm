@@ -1,6 +1,6 @@
 # The Block Playbook
 
-This guide keeps our neighborhood network moving safely and smoothly. It is a simple tool to help us watch out for each other and share what we have without creating messy, top-down rules or letting outside forces take over our spaces.
+This guide keeps our neighbor network moving safely and smoothly. It is a simple tool to help us watch out for each other and share what we have without creating messy, top-down rules or letting outside forces take over our spaces.
 
 ### 1. Simple Rules for Moving Forward
 
