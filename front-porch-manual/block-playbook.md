@@ -4,7 +4,7 @@ This guide keeps our neighborhood network moving safely and smoothly. It is a si
 
 ### 1. Simple Rules for Moving Forward
 
-* **Start With What We Have:** We do not look at what our block lacks. We map out the community wealth—the Tools, Skills, and Knowledge—that are already sitting right here on our street.
+* **Start With What We Have:** We do not look at what our block lacks. We map out the community wealth - the tools, skills, and knowledge that are already sitting right here on our street.
 * **Keep It Personal:** Everything happens through backyard conversations, side-door knocks, and direct neighbor-to-neighbor relationships. 
 * **Zero Price Tags:** Nobody keeps a financial tab, nobody owes anyone money, and no corporate credits are tracked. We trade help freely because strong relationships are our actual wealth.
 * **Share the Roles:** No single person runs this block. We pass the coordination tasks around regularly so everyone stays involved and nobody gets weighed down with a permanent job.
