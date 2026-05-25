@@ -8,7 +8,7 @@ A lot of outside organizations, institutional programs, and traditional charitie
 
 We do the exact opposite. We look at our blocks and see places that are already wealthy. We break this community wealth down into three simple areas:
 1. **Tools:** The physical gear, open spaces, and shared hardware sitting in our garages and sheds.
-2. **Skills:** The practical capabilities we carry—cooking, building, translating, fixing cars, or caring for kids.
+2. **Skills:** The practical capabilities we carry - cooking, building, translating, fixing cars, or caring for kids.
 3. **Knowledge:** Our deep understanding of local history, legal procedures, institutional systems, or specialized domains.
 
 Instead of waiting for an outside program to save us after a winter storm or a heatwave, our templates help neighbors map out what is already here so we can start with our own strengths.
