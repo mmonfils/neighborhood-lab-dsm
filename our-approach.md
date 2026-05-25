@@ -1,27 +1,26 @@
 # Our Approach
 
-Neighborhood Lab DSM operates out of a basic desire to show care, support, and goodwill to the people on our blocks through direct action. This project is entirely independent of any religious institution, dogmatic framework, or formal political organization. 
+This document lays out the core ideas behind our work and shows how they shape what we do every day on our blocks. We do not use these concepts to sound fancy or academic. We use them because they help us keep power local, protect our privacy, and build real community trust.
 
-Instead of treating neighborhoods by what they lack, we want to focus on what is already right in front of us: tool sharing, practical emergency skills, and everyday neighborhood care.
+## 1. Building on What We Have (Asset-Based Community Development)
 
-## Core Ideas
+A lot of outside organizations, institutional programs, and traditional charities look at our neighborhoods and only see problems to fix. They focus entirely on what we lack, which usually ends up meaning they want to bring in outside experts or top-down funding to manage us. 
 
-### Practical Asset Mapping
-Most institutional or city programs look at neighborhoods through a lens of scarcity. We choose to focus on abundance. That means knowing who on the block owns a tall ladder, who knows how to fix a broken pipe, and who has an extra bag of salt during a winter freeze. We look at our blocks for what we have, not just what we need.
+We do the exact opposite. We look at our blocks and see places that are already wealthy. We break this community wealth down into three simple areas:
+1. **Tools:** The physical gear, open spaces, and shared hardware sitting in our garages and sheds.
+2. **Skills:** The practical capabilities we carry—cooking, building, translating, fixing cars, or caring for kids.
+3. **Knowledge:** Our deep understanding of local history, legal procedures, institutional systems, or specialized domains.
 
-### Localized Privacy
-Community data belongs to the individuals who live on the street. We do not use centralized apps or corporate data platforms that track neighbor interactions. For more details on how we handle safety boundaries, check the privacy section in the main [README.md](README.md).
+Instead of waiting for an outside program to save us after a winter storm or a heatwave, our templates help neighbors map out what is already here so we can start with our own strengths.
 
-### Simple Blueprints
-The goal of this repository is to share simple, working tools that a person can casually mention over a backyard fence. 
-* Our practical block layout guides sit in the `front-porch-manual/` folder.
-* For a framework on how to divide tasks cleanly among neighbors without creating formal committees, check `front-porch-manual/sharing-tasks-fairly.md`.
+## 2. Decisions Belong on the Block (Democratic Federalism)
 
-### Navigating Outside Pressures
-While we focus on looking out for our own doorsteps, we also need to pay attention to the external zoning, economic, and policy decisions that affect residential blocks from the outside. We track these civic shifts and break them down in plain English within the [tracking-the-blueprint/](./tracking-the-blueprint/) directory.
+This is a big term for a very simple, practical reality: choices should always be made at the most local level possible, right where people actually live. Instead of relying on a centralized board or a distant regional committee to make rules for everyone, power stays decentralized. 
 
-## From the Blueprints to the Street
+Smaller block groups handle their own day-to-day business, and they only team up with other blocks when a problem is too big for one street to handle on its own. There is no central boss or city-wide database tracking everyone. Every block grid manages its own local files and paper logs independently. If two blocks want to coordinate, they talk to each other directly as equals, neighbor-to-neighbor.
 
-If you want to read the real-world stories and localized essays showing how these principles actually transition from digital layouts to real Des Moines front yards, join the conversation on our main publication page:
+## 3. Seeing the Big Picture (Tracking the Blueprint)
 
-[Neighborhood Lab DSM on Substack](https://neighborhoodlabdsm.substack.com)
+This is our way of looking at the world to see how macro-level forces shape our daily lives. For decades, decisions made in corporate boardrooms, courts, and legislative halls have used coordinated strategies to slowly rewrite the rules of local planning. This is a deliberate blueprint designed to shift decision-making power away from communities and into centralized hands. 
+
+If you only look at your own front yard, you might miss these larger patterns. By tracking how these structural pressures operate, we can spot the changes coming before they reach our doorsteps. It helps us build independent networks on our blocks early enough to keep outside forces from taking over our spaces or deciding the future of our neighborhoods for us. We document these patterns frequently on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so everyone can learn to spot them in real time.
