@@ -18,7 +18,7 @@ This guide keeps our neighborhood network moving safely and smoothly. It is a si
 
 ### 3. Step-by-Step Organizing Guide
 
-* **Step 1: The Porch Chat:** Invite two or three trusted neighbors over for a casual conversation on the porch to see if they want to build a safety net for the street.
-* **Step 2: The Block Grid Mapping:** Use our simple local template to write down who has what tool, who can help with practical skills, and who holds useful knowledge for emergencies.
-* **Step 3: Setting Up Communication:** Choose a direct contact method that everyone can easily use, whether that means a basic group text loop, a Signal thread, or simply agreeing to leave a note taped to each other's front door.
-* **Step 4: The Seasonal Check-in:** Gather twice a year, once during spring yard cleanup and once before the winter snow hits, to quickly update the spreadsheet and rotate the coordination tasks to a new neighbor. We often share reminders for these check-ins through our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so folks remember to swap roles before the weather turns.
+* **Step 1: The Porch Chat:** Invite two or three trusted neighbors over for a casual conversation on the porch to see if they want to build a neighbor network for the street.
+* **Step 2: The Porch-to-Porch Inventory:** Use our local [neighborhood-toolkit-template.csv](neighborhood-toolkit-template.csv) to map out who has what tool, who can help with practical skills, and who holds useful knowledge for everyday resilience or emergencies. 
+* **Step 3: Setting Up Communication & Interactions:** Choose a direct contact method everyone can use, whether that's a basic text loop, a Signal thread, or leaving notes on front doors. To keep the network active and celebrate small acts of mutual aid, keep a simple record of shared tools or help using our [exchange-log-template.csv](exchange-log-template.csv).
+* **Step 4: The Seasonal Check-in:** Gather twice a year, once during spring yard cleanup and once before the winter snow hits, to quickly update the toolkit inventory, check the log, and rotate coordination tasks to a new neighbor. We promote these check-ins through our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so folks remember to swap roles before the weather turns.
