@@ -1,10 +1,10 @@
 # Our Approach
 
-This document lays out the core ideas behind our work and shows how they shape what we do every day on our blocks. We do not use these concepts to sound fancy or academic. We use them because they help us keep power local, protect our privacy, and build real community trust.
+This document lays out the core ideas behind our work and shows how they shape what we do every day on our blocks. We keep our language conversational because these ideas belong on a front porch, not in a textbook. This approach keeps our focus local, protects our privacy, and helps us build real trust right on the block.
 
 ## 1. Building on What We Have (Asset-Based Community Development)
 
-A lot of outside organizations, institutional programs, and traditional charities look at our neighborhoods and only see problems to fix. They focus entirely on what we lack, which usually ends up meaning they want to bring in outside experts or top-down funding to manage us. 
+A lot of outside organizations, institutional programs, and traditional charities look at our neighborhoods and only see problems to fix. They often start by looking at what’s missing, which can lead to bringing in outside experts or top-down funding to manage us.
 
 We do the exact opposite. We look at our blocks and see places that are already wealthy. We break this community wealth down into three simple areas:
 1. **Tools:** The physical gear, open spaces, and shared hardware sitting in our garages and sheds.
@@ -23,4 +23,4 @@ Smaller block groups handle their own day-to-day business, and they only team up
 
 This is our way of looking at the world to see how macro-level forces shape our daily lives. For decades, decisions made in corporate boardrooms, courts, and legislative halls have used coordinated strategies to slowly rewrite the rules of local planning. This is a deliberate blueprint designed to shift decision-making power away from communities and into centralized hands. 
 
-If you only look at your own front yard, you might miss these larger patterns. By tracking how these structural pressures operate, we can spot the changes coming before they reach our doorsteps. It helps us build independent networks on our blocks early enough to keep outside forces from taking over our spaces or deciding the future of our neighborhoods for us. We document these patterns frequently on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so everyone can learn to spot them in real time.
+If you only look at your own front yard, you might miss these larger patterns. By tracking how these structural pressures operate, we can spot the changes coming before they reach our doorsteps. It helps us build independent networks on our blocks early enough to keep outside forces from taking over our spaces or deciding the future of our neighborhoods for us. We document these patterns on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so everyone can learn to spot them in real time.
