@@ -1,8 +1,12 @@
 # Neighborhood Lab DSM
 
-Welcome to the neighborhood space. This project is where we track how big, top down legal and financial decisions affect our community, while building strong, independent networks on our own blocks from the ground up. 
+Welcome to the neighborhood space. This project is where we track how big, top-down legal and financial decisions affect our community, while building strong, independent networks on our own blocks from the ground up. 
 
 We look at our Des Moines neighborhoods as places that are already rich with skills, tools, and care, rather than spaces that need to be saved or managed by outside bureaucracies. This repository holds our research and the practical tools we use to keep power right where it belongs: on our blocks.
+
+***
+*If you want to read plain-language stories, examples, and ongoing updates about how central Iowa blocks are putting these blueprints into practice, pull up a chair and join our neighborhood discussion over on our Substack newsletter at https://neighborhoodlabdsm.substack.com/ .*
+***
 
 ## The Ground Rules
 
