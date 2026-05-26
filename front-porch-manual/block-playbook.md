@@ -14,7 +14,7 @@ This guide keeps our neighbor network moving safely and smoothly. It is a simple
 * **No Digital Tracking:** We never put our shared spreadsheet on public internet databases, mapping software, or corporate cloud links where companies can scrape our personal details.
 * **Keep Data Local:** The physical paper sheets and local files stay strictly with the households participating on this exact block grid. Independent local competence keeps our information secure.
 * **Protecting Our Space:** If city groups, political organizations, or institutional programs ask for our block maps or data lists, we politely say no. This network belongs strictly to the households on this block grid.
-* **Handling Misunderstandings:** If someone tries to hoard tools or take advantage of the network, we do not call outside authorities. Two neighbors simply walk over, have a quiet chat on the porch, and remind them that the network runs on mutual respect and neighborly goodwill.
+* **Handling Misunderstandings:** If friction arises, such as a misunderstanding over shared tools or a breakdown in the spirit of the network, our first step is always direct, respectful communication. Rather than letting a small issue escalate, two neighbors can simply walk over for a quiet, constructive chat on the porch. Reminding each other that the block runs on mutual respect is usually all it takes to keep our community tight-knit and self-reliant.
 
 ### 3. Step-by-Step Organizing Guide
 
