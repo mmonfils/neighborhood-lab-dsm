@@ -9,7 +9,7 @@ We don't limit our research to single city ordinances or isolated events. Instea
 * **Policy:** Following how shifts in institutional guidelines, regional planning frameworks, and bureaucratic mandates alter the way our neighborhoods are run.
 * **Economy:** Documenting how centralized capital, corporate investments, out-of-state developers, and corporate lobbies shift wealth away from local control.
 * **Law:** Tracking court rulings, statutory changes, and legal precedents that quietly reshape property rights, public spaces, and community protections.
-* **Politics:** Studying how decision-making power is consolidated or moved away from neighborhood levels, restricting what folks on a local block grid are allowed to decide for themselves.
+* **Politics:** Studying how decision-making power is consolidated or moved away from neighborhood levels, restricting what people on a local block grid are allowed to decide for themselves.
 
 ## How We Write Our Notes
 
