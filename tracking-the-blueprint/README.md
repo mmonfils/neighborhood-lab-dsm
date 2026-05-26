@@ -1,6 +1,6 @@
 # Tracking the Blueprint
 
-This folder is our community research space. We use it to study how big, macro-level structural decisions eventually trickle down and put pressure on our actual neighborhood streets in central Iowa. By connecting the dots here, we can see the pressure coming before it reaches our doorsteps, helping us protect our blocks early.
+This folder is our community research space. We use it to study how big, macro-level structural decisions eventually trickle down and put pressure on our actual neighborhood streets in central Iowa. By connecting the dots here, we can see the pressure coming before it reaches our doorsteps, giving us the uncompressed facts we need to protect our blocks early.
 
 ## What We Look Into Here
 
@@ -17,7 +17,7 @@ If you want to contribute research, timelines, or brief write-ups to this folder
 
 * **No textbook talk.** Avoid academic jargon, heavy legal terms, and dry political science language. Write your findings clearly, like you are explaining a pattern to a friend on a front porch.
 * **Keep it grounded.** Always tie the big picture back to the physical reality of our neighborhoods. Explain exactly why a policy shift or legal ruling matters to a household living on a central Iowa block grid.
-* **Stay out of the political sandbox.** Our research isn't about scorekeeping for red or blue teams. We focus entirely on the line between centralized institutional power and local neighborhood agency. 
+* **Stay out of the political sandbox.** Our research isn't about scorekeeping for red or blue teams. We focus entirely on the line between centralized institutional power and local neighborhood agency. Objective, clear data is our best tool for handling outside pressures.
 
 ## From the Workshop to the Porch
 
