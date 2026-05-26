@@ -19,4 +19,4 @@ This template is designed to live on a participant's local hard drive to map nei
 
 * **No price tags.** Never write down how much an item or a favor is worth in money. 
 * **No tabs.** Never track who owes what to who. All sharing on our blocks is completely voluntary, and strong relationships are our actual wealth.
-* **Keep it offline.** Keep this spreadsheet stored locally on your own home computer or print it out on a physical sheet of paper. Do not upload it to public cloud links or online mapping software where companies or outside institutions can access our personal details. You can check for open community data standards updates on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/).
+* **Keep it offline.** Keep this spreadsheet stored locally on your own home computer or print it out on a physical sheet of paper. Do not upload it to public cloud links or online mapping software where companies or outside institutions can access our personal details. You can check for updates on open community data standards on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/).
