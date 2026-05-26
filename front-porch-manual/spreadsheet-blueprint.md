@@ -2,7 +2,7 @@
 
 This guide explains how to use our local resource and tracker template without tracking private data or putting price tags on neighborhood help. By keeping our formatting simple and readable, we ensure these files match the rules of [The Neighborhood Index](../neighborhood-index/README.md) so that any block can easily manage its own resources in a typical user-friendly spreadsheet program like Excel.
 
-This template is designed to live on a participant's local hard drive to map neighborhood assets and structural pressures without relying on cloud software or corporate surveillance.
+This template is designed to live on a participant's local hard drive to map neighborhood resources and connections without relying on cloud software or corporate surveillance.
 
 ## Column Rules
 
