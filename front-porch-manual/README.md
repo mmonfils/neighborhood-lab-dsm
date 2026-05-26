@@ -1,6 +1,6 @@
 # The Front Porch Manual
 
-This folder contains the practical guides and templates for setting up an independent neighbor network right on your own block grid. These are the tools used to turn our everyday assets into real, local resilience. 
+This folder contains the practical guides and templates for setting up an independent neighbor network right on your own block. These are the tools used to turn our everyday assets into real, local resilience. 
 
 While our tracking folder looks at the big structural forces pushing down on us, this manual is how we push back by looking out for each other right where we live.
 
