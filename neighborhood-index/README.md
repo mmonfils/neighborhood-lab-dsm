@@ -1,6 +1,6 @@
 # The Neighborhood Index
 
-This folder holds our data guidelines for indexing public resources, community assets, and shared information across our neighborhoods. We track things like local hubs, public green spaces, and open community assets so anyone can easily look up what they need.
+This folder holds our data guidelines for indexing public resources and shared information across our neighborhoods. We track things like local hubs, public green spaces, and open community assets so anyone can easily look up what they need.
 
 ***
 *Note from the workshop: We are currently focusing our energy on building out the big picture research and refining our block playbook, so this datasets section is just a placeholder for now. We will start mapping out public resources together soon. If you want to help get this index off the ground, pull up a chair and let us know! We will also invite contributions through content on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/).*
