@@ -8,6 +8,6 @@ This folder holds our data guidelines for indexing public resources, community a
 
 ## Rules for Keeping Data Accessible
 
-* **Keep it simple.** Keep all data in flat, standard spreadsheet files so anyone can open them on a basic computer without needing special software or data training.
+* **Keep it simple.** Keep all data in flat, standard spreadsheet files so anyone can open them on a basic computer without needing special software or data training. Lowering the barrier to entry ensures that everyone can participate equally, not just elite specialists.
 * **No gatekeeping.** Do not hide community data behind complex online mapping tools, specialized digital dashboards, or corporate paywalls. If a neighbor cannot easily read it or download it, it does not belong here.
-* **Grounded and useful.** Focus on tracking public wealth—shared spaces, local knowledge hubs, and accessible tools—that directly helps people navigate the neighborhood and look out for each other. This keeps our index focused on real community needs rather than abstract statistics.
+* **Grounded and useful.** Focus on tracking public wealth, including shared spaces, local knowledge hubs, and accessible tools, that directly helps people navigate the neighborhood and look out for each other. This keeps our index focused on real community needs rather than abstract statistics.
