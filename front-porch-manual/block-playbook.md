@@ -4,7 +4,7 @@ This guide keeps our neighbor network moving safely and smoothly. It is a simple
 
 ### 1. Simple Rules for Moving Forward
 
-* **Start With What We Have:** We do not focus on what our block lacks. We map out the community wealth - the tools, skills, and knowledge that are already sitting right here on our street.
+* **Start With What We Have:** We do not focus on what our block lacks. We map out the community wealth, which means the tools, skills, and knowledge that are already sitting right here on our street.
 * **Keep It Personal:** Everything happens through backyard conversations, side-door knocks, and direct neighbor-to-neighbor relationships. 
 * **Zero Price Tags:** Nobody keeps a financial tab, nobody owes anyone money, and no corporate credits are tracked. We trade help freely because strong relationships are our actual wealth.
 * **Share the Roles:** No single person runs this block. We pass the coordination tasks around regularly so everyone stays involved and nobody gets weighed down with a permanent job.
@@ -12,9 +12,9 @@ This guide keeps our neighbor network moving safely and smoothly. It is a simple
 ### 2. Guarding Our Privacy and Independence
 
 * **No Digital Tracking:** We never put our shared spreadsheet on public internet databases, mapping software, or corporate cloud links where companies can scrape our personal details.
-* **Keep Data Local:** The physical paper sheets and local files stay strictly with the households participating on this exact block grid.
-* **Protecting Our Space:** If city groups, political organizations, or institutional programs ask for our block maps or data lists, we politely say no. This network belongs to the neighbors, not outside bureaucracies.
-* **Handling Misunderstandings:** If someone tries to hoard tools or take advantage of the network, we do not call outside authorities. Two neighbors simply walk over, have a quiet chat on the porch, and remind them that the network runs on mutual respect.
+* **Keep Data Local:** The physical paper sheets and local files stay strictly with the households participating on this exact block grid. Independent local competence keeps our information secure.
+* **Protecting Our Space:** If city groups, political organizations, or institutional programs ask for our block maps or data lists, we politely say no. This network belongs strictly to the households on this block grid.
+* **Handling Misunderstandings:** If someone tries to hoard tools or take advantage of the network, we do not call outside authorities. Two neighbors simply walk over, have a quiet chat on the porch, and remind them that the network runs on mutual respect and neighborly goodwill.
 
 ### 3. Step-by-Step Organizing Guide
 
