@@ -6,11 +6,13 @@ This template is designed to live on a participant's local hard drive to map nei
 
 ## Column Rules
 
-* **Household ID:** Use simple codes like H01 or H02. Do not write down specific names, phone numbers, or exact street addresses on this shared file. This keeps household data completely private and independent.
+* **Household Name (Location):** Keep data tracking casual, person-centered, and private. Lead with a first name or a family/group nickname, followed by a brief physical description or building space in parentheses. To maintain absolute household privacy and independence, **never** write down full names, phone numbers, or exact street addresses on this shared file.
+  * *For Apartments / Shared Walls:* `Dave (Apt 3C)` or `Sarah (Floor 2)`
+  * *For Houses / Standalone Lots:* `Marcus (Yellow House)` or `The Garcias (Corner Lot)`
 * **Resource Type:** Put items into our three basic wealth categories, including Tools (physical gear), Skills (practical capabilities), or Knowledge (specialized understanding).
 * **Description:** Write down what the resource actually is, like a 10-foot ladder, a chainsaw, an open garage for car repairs, fluent Spanish translation, or a deep understanding of local property tax procedures.
 * **Availability Notes:** Add simple details on when the resource might be available or any helpful boundaries, such as "Weekends only" or "Evenings after 6 PM."
-* **Contact Method:** Use direct, local methods that do not rely on apps or corporate links. You can write simple notes like "knock on side door" or "drop a text."
+* **Contact Method:** Use direct, local methods that do not rely on apps or corporate links. You can write simple notes like "knock on side door" or "send a text."
 * **Last Checked:** Note when the information was updated. We typically review this list twice a year, once during spring yard cleanups and once right before winter storms hit.
 
 ## Safety Rules
