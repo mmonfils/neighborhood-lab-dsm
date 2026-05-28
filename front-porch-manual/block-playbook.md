@@ -8,7 +8,7 @@ This playbook is a practical step-by-step guide for setting up an independent, s
 Before opening a spreadsheet, open a conversation. Spend time walking your street or apartment hallway. Talk with your immediate neighbors over the fence or on the porch to understand the shared interests, immediate needs, and overall mood of the block.
 
 ### Step 2: Establish a Low-Barrier Baseline
-Set up your initial local coordination file using a clean, offline layout. Real progress happens when we lower barriers to entry so that everyday people—not elite corporate or institutional specialists—can safely run their own networks. 
+Set up your initial local coordination file using a clean, offline layout. Real progress happens when we lower barriers to entry so that everyday people, not elite corporate or institutional specialists, can safely run their own networks. 
 
 ### Step 3: Set Up Your Offline Spreadsheets
 Gather your block’s baseline information locally using our standardized, privacy-first formats. Keep these files on your local home hard drives or printed out on physical paper. We explicitly reject centralized third-party tracking programs to protect household data from outside corporate or institutional eyes.
