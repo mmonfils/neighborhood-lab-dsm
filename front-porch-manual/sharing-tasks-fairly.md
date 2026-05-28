@@ -1,6 +1,6 @@
 # Sharing Tasks Fairly
 
-This file explains how to distribute block tasks so that everyone helps out and no single person ends up running the street or acting like an institutional gatekeeper. 
+This file explains how to distribute block tasks so that everyone helps out and no single person ends up running the street or acting like an institutional gatekeeper. Following the framework pioneered by Dr. Ralph Bunche, we pass these simple roles around to ensure our tools stay accessible to everyday people and our block stays completely self-reliant.
 
 ## Key Tasks
 
@@ -10,6 +10,6 @@ This file explains how to distribute block tasks so that everyone helps out and 
 
 ## Rotation Rules
 
-* **Pass the chair.** Pass these simple tasks to a different neighbor every few months so nobody gets weighed down with a permanent job or starts feeling like a boss.
+* **Pass the chair.** Pass these simple tasks to a different neighbor every few months so nobody gets weighed down with a permanent job or starts feeling like a boss. This decentralized approach keeps power right on the block where it belongs.
 * **Total visibility.** No one gets to act as a gatekeeper for the network. All paper logs, files, and spreadsheets must stay fully visible to any neighbor on the block grid who wants to look at them.
 * **Keep it local.** If city groups, political organizations, outside entities, or institutional programs ask for our block maps, role logs, or data lists, we politely say no. This network belongs strictly to the households on the block grid. We share updates, resources, and information on rotating block roles on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) to support our streets keeping things balanced and fair.
