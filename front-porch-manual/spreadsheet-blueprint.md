@@ -41,6 +41,6 @@ This decentralized mutual aid ledger tracks simple day-to-day coordination witho
 This layout catalogs open, shared community resources available to the entire neighborhood space, focusing on physical infrastructure rather than individual households:
 1.  `Resource Name` — The clear title of the public asset (e.g., *DMPL Community Fridge* or *DMPL Seed Library*).
 2.  `Resource Type` — The structural category of the asset (e.g., *Food Pantry* or *Community Garden Resource*).
-3.  `Location` — The specific street address, library branch, or intersection where it is hosted (e.g., *1000 Grand Ave (Central Library)* or *2559 Hubbell Ave (East Side Library)*).
+3.  `Location` — The specific street address, library branch, or intersection where it is hosted (e.g., *900 Locust St (Central Library)* or *5000 Franklin Ave (Franklin Avenue Library)*).
 4.  `Availability Notes` — Access rules or seasonal parameters (e.g., *Accessible during regular library operating hours* or *Available during spring and summer seasons*).
 5.  `Last Verified` — The exact date the resource's existence and operational status were confirmed by a local coordinator.
