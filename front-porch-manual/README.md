@@ -1,6 +1,6 @@
 # The Front Porch Manual
 
-This folder contains practical, street-level templates and straightforward organizing guides designed to step away from digital complexity and hand neighbors real starting points on the block.
+True stories, tips, and free templates showing how local block grids look after each other. Here is how neighbors use simple, offline spreadsheets to coordinate everyday neighbor networks and share tools freely.
 
 ## Practical Tools & Blueprints
 *   `block-playbook.md`: Step-by-step organizing guide and privacy rules.
