@@ -5,7 +5,7 @@ This folder holds our open, flat-file templates and data guidelines for indexing
 ## Rules for Keeping Data Accessible
 *   **Keep it simple.** Keep all data in flat, standard CSV or spreadsheet files so anyone can open them on a basic device without specialized software or tech training.
 *   **No gatekeeping.** Do not hide community data behind complex online mapping tools, interactive digital dashboards, or corporate paywalls. If a neighbor cannot easily read it offline, it does not belong here.
-*   **Grounded and useful.** Focus on tracking public community wealth - shared infrastructure, tools, local knowledge hubs, and open spaces that directly helps people navigate the neighborhood.
+*   **Grounded and useful.** Focus on tracking public community wealth—shared infrastructure, tools, local knowledge hubs, and open spaces—that directly helps people navigate the neighborhood.
 
 ## Active Shared Indexes
 *   `public-assets-template.csv`: Our direct template for tracking open, public community assets across our city streets.
