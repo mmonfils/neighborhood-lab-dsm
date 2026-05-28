@@ -1,15 +1,15 @@
-# Substack Layout Architecture
+# The Substack Blueprint
 
-This blueprint documents the editorial framework, word budgets, and publication sections governing our communication front porch at the [Substack newsletter](https://neighborhoodlabdsm.substack.com/). This file ensures that any independent organizer can reproduce or fork this communication strategy to support localized neighbor networks.
+This blueprint documents the editorial framework, word counts, and publication sections governing our communication front porch at the [Substack newsletter](https://neighborhoodlabdsm.substack.com/). This file ensures that any independent organizer can reproduce or fork this communication strategy to support localized neighbor networks.
 
-## The "Front Porch Encounter" Word Budgets
+## "Front Porch" Word Budgets
 
-We intentionally reject long-form, academic formats. Every post mirrors a brief, casual sidewalk conversation. To keep updates quick and respectful of time, we adhere to strict word budgets that include our standard footer:
+We intentionally reject long-form, academic formats. Every post mirrors a brief, casual sidewalk conversation. To keep updates quick and respectful of time, we adhere to strict word budgets that include our standard footer, without counting the invitation to subscribe:
 
-* **The Baseline Post Blueprint (~304 Words Total):** * Body Text Target: ~150 words.
-  * Standard Footer: 154 words.
-* **The Deep-Dive Ceiling (~454 Words Total):** * Body Text Max: 300 words.
-  * Standard Footer: 154 words.
+* **The Baseline Post Blueprint (At least 300 Words Total):** * Body Text Target: 150 words.
+  * Standard Footer: 150 words.
+* **The Deep-Dive Ceiling (Up to 450 Words Total):** * Body Text Max: 300 words.
+  * Standard Footer: 150 words.
 
 ## Publication Sections & Core Subtitles
 
@@ -24,7 +24,7 @@ We intentionally reject long-form, academic formats. Every post mirrors a brief,
 5. **The Neighborhood Index (The Open Public Database)**
    * *Subtitle:* A public space for sharing street maps, resource tracking spreadsheets, and local data.
 
-## Standard Article Footer (154 Words)
+## Standard Article Footer (150 Words)
 
 The following markdown text must be appended to the bottom of every Substack post to seamlessly guide readers back to the workshop:
 
