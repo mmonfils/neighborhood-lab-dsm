@@ -4,7 +4,7 @@ This directory provides a straightforward framework to document and simplify big
 
 ## Active Blueprint Layouts
 
-*   `blueprint-tracker.md`: Our template framework for looking at regional pressures, institutional developments, and community transitions.
+*   `big-picture-framework.md`: Our template framework for looking at regional pressures, institutional developments, and community transitions.
 
 ## Basic Layout Rules
 
