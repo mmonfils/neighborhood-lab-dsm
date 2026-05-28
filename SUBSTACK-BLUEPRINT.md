@@ -16,11 +16,11 @@ We intentionally reject long-form, academic formats. Every post mirrors a brief,
 1. **Neighborhood Lab DSM (The Overarching Front Porch)**
    * *Subtitle:* A shared notebook with simple tools to track local facts and map our blocks.
 2. **Our Approach (The Philosophical Anchor)**
-   * *Subtitle:* Why we choose straightforward backyard trust over the constant noise of city politics.
+   * *Subtitle:* Building straightforward backyard trust that coexists with the big picture.
 3. **Tracking the Blueprint (The Community Research Space)**
    * *Subtitle:* Looking past the surface to see how big structural decisions quietly shape our streets.
 4. **The Front Porch Manual (The Practical Toolkit)**
-   * *Subtitle:* Free templates and straightforward guides to set up an independent neighbor network.
+   * *Subtitle:* Practical playbooks and offline resource toolkits we can use to make our blocks self-reliant.
 5. **The Neighborhood Index (The Open Public Database)**
    * *Subtitle:* A public space for sharing street maps, resource tracking spreadsheets, and local data.
 
