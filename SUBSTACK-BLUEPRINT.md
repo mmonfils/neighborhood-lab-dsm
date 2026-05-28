@@ -1,6 +1,6 @@
 # Substack Layout Architecture
 
-This blueprint documents the editorial framework, word budgets, and publication sections governing our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork this communication strategy to support localized neighbor networks.
+This blueprint documents the writing guidelines, word budgets, and spaces governing our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support localized neighbor networks.
 
 ## The "Front Porch Encounter" Word Budgets
 We intentionally reject long-form, academic formats. Every post mirrors a brief, casual sidewalk conversation. To keep updates quick and respectful of time, we adhere to strict word budgets that include our standard footer:
@@ -17,13 +17,13 @@ We intentionally reject long-form, academic formats. Every post mirrors a brief,
 1.  **Neighborhood Lab DSM (The Overarching Front Porch)**
     *   *Subtitle:* A shared notebook with simple tools to track local facts and map our blocks.
 2.  **Our Approach (The Philosophical Anchor)**
-    *   *Subtitle:* Building straightforward backyard trust that coexists with the big picture.
+    *   *Subtitle:* Casual deep dives into why we trust backyards over big systems.
 3.  **Tracking the Blueprint (The Community Research Space)**
-    *   *Subtitle:* Looking past the surface to see how big structural decisions quietly shape our streets.
+    *   *Subtitle:* Porch-style breakdowns of how top-down money, laws, and policy shifts trickle down to central Iowa streets.
 4.  **The Front Porch Manual (The Practical Toolkit)**
-    *   *Subtitle:* Practical playbooks and offline resource toolkits we can use to make our blocks self-reliant.
+    *   *Subtitle:* True stories, tips, and free templates showing how local block grids look after each other.
 5.  **The Neighborhood Index (The Open Public Database)**
-    *   *Subtitle:* A public space for sharing street maps, resource tracking spreadsheets, and local data.
+    *   *Subtitle:* Simple spreadsheet guidelines for keeping track of public community hubs and open resources.
 
 ## Standard Article Footer (154 Words)
 The following markdown text must be appended to the bottom of every Substack post to seamlessly guide readers back to the workshop:
