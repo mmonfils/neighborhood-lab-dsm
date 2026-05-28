@@ -1,22 +1,14 @@
 # Neighborhood Lab DSM
 
-Welcome to the neighborhood space. This project is where we keep our eyes on the big picture, tracking how top-down structural choices affect our community while building strong, independent networks right on our own blocks from the ground up. 
+A shared notebook with simple tools to track local facts and map our blocks. This repository serves as our open-source digital workshop, holding the practical templates, community spreadsheets, and organizing frameworks we use to build a more self-reliant Des Moines from the ground up.
 
-We look at our Des Moines neighborhoods as places that are already rich with capability, resources, and care, rather than spaces that need to be managed or saved by outside bureaucracies. This repository is our workbench. It holds our collective research and the practical, everyday tools we use to keep decision-making power right where it belongs: on our blocks.
+## Workshop Directory Map
 
-## The Front Door
+*   `our-approach.md`: The philosophical core of our work, choosing straightforward backyard trust over top-down institutional friction.
+*   `SUBSTACK-BLUEPRINT.md`: Our transparent publication layout, editorial rules, and communication framework.
+*   `front-porch-manual/`: Practical, offline blueprints, toolkits, and responsibilities for organizing standalone lots or apartment blocks internally.
+*   `tracking-the-blueprint/`: Simple workbenches for breaking down big city hall plans, regional funding shifts, and town rules into clear, everyday facts.
+*   `neighborhood-index/`: Flat-file, spreadsheet-friendly public indexes tracking community wealth and open assets across our streets.
 
-If you are looking for our finished essays, neighborhood stories, and regular updates, pull up a chair and head over to our [Substack newsletter](https://neighborhoodlabdsm.substack.com/). While this repository is the backend workshop where the tools are built, the Substack is the front porch where we share how these ideas are working in real-time across central Iowa. 
-
-## The Ground Rules
-
-* **Talk like neighbors.** We leave professional, academic, or partisan jargon at the door. Everything here is written like a conversation over a backyard fence.
-* **Protect each other's privacy.** We do not track, log, or store personal data on public servers, corporate cloud links, or shared internet databases. 
-* **Keep data local.** All block maps and resource lists stay strictly with the households participating on that specific block grid. If outside institutional programs or organizations ask for our files, we politely say no.
-
-## How the Project Is Organized
-
-* [our-approach.md](our-approach.md): The core philosophy behind our project. This explains how we view local power, structural choices, and community wealth.
-* [tracking-the-blueprint/](tracking-the-blueprint/README.md): Our community research space. This is where we document how shifting forces across the economy, policy, law, and politics trickle down and put pressure on central Iowa streets.
-* [neighborhood-index/](neighborhood-index/README.md): Guidelines for tracking public assets and community wealth using plain, accessible spreadsheets.
-* [front-porch-manual/](front-porch-manual/README.md): The practical guides and templates neighbors use to look after each other, share items, and organize block grids independently.
+## Operating Standards
+All assets in this repository are managed in accordance with our community `CONTRIBUTING.md` workflows, `CODE_OF_CONDUCT.md` neighborhood standards, and are dedicated entirely to the public domain via the `LICENSE` terms.
