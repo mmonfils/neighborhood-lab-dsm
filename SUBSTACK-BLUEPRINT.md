@@ -1,16 +1,16 @@
-# Substack Layout Architecture
+# Substack Blueprint
 
-This blueprint documents the writing guidelines, word budgets, and spaces governing our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support localized neighbor networks.
+This blueprint documents the writing guidelines, word counts, and layout for our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support their own local neighbor network.
 
-## The "Front Porch Encounter" Word Budgets
-We intentionally reject long-form, academic formats. Every post mirrors a brief, casual sidewalk conversation. To keep updates quick and respectful of time, we adhere to strict word budgets that include our standard footer:
+## "Front Porch" Word Counts
+We avoid lengthy, academic writing. Every post is like a brief, laid-back conversation on the sidewalk. To keep updates quick and respectful of time, we follow strict word counts that include our standard footer:
 
-*   **The Baseline Post Blueprint (~304 Words Total):**
-    *   Body Text Target: ~150 words.
-    *   Standard Footer: 154 words.
-*   **The Deep-Dive Ceiling (~454 Words Total):**
+*   **Basic Posts (At Least 300 Words Total):**
+    *   Body Text Target: 150 words.
+    *   Standard Footer: 150 words.
+*   **Advanced Posts (Up to 450 Words Total):**
     *   Body Text Max: 300 words.
-    *   Standard Footer: 154 words.
+    *   Standard Footer: 150 words.
 
 ## Publication Sections & Core Subtitles
 
@@ -25,8 +25,8 @@ We intentionally reject long-form, academic formats. Every post mirrors a brief,
 5.  **The Neighborhood Index (The Open Public Database)**
     *   *Subtitle:* Simple spreadsheet guidelines for keeping track of public community hubs and open resources.
 
-## Standard Article Footer (154 Words)
-The following markdown text must be appended to the bottom of every Substack post to seamlessly guide readers back to the workshop:
+## Standard Article Footer (150 Words)
+The following text must be added to the bottom of every Substack post to connect readers with the workshop:
 
 ***
 
