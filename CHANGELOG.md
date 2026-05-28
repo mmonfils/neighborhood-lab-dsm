@@ -1,29 +1,16 @@
 # Changelog
 
-We use basic version numbers (`vMAJOR.MINOR.PATCH`) to show how the project is growing.
+Notable updates made to our neighborhood tools and templates, recorded in plain terms.
 
 ---
 
-## [1.4.0] - 2026-05-28
-
-### Added
-* Created the `blueprint-tracker.md` template in the research folder to map out big patterns.
-* Added the standard layout framework file (`SUBSTACK-BLUEPRINT.md`) to the main folder.
-
-### Changed
-* Adjusted folder introduction files to use clean, uniform section headers.
-* Updated `CONTRIBUTING.md` to point to the new section names.
-* Streamlined folder descriptions and reduced newsletter references across all introduction files.
-* Fixed the folder-to-folder jump path inside the `spreadsheet-blueprint.md` manual paragraph.
-* Swapped out file-level web links for folder-level web links inside the newsletter drafts for consistency.
-
----
-
-## [1.3.0] - 2026-05-25
-
-### Added
-* Created the public asset tracker sheet template (`public-assets-template.csv`) with three local reference entries.
-* Added the basic `spreadsheet-blueprint.md` data safety manual.
-
-### Changed
-* Swapped out placeholder notes in the index folder for active data rules.
+* **README (root).md** - Updated the directory map to show the new simplified folder layout and updated all template filenames.
+* **CONTRIBUTING.md** - Removed institutional jargon and updated all file and framework name cross-references.
+* **front-porch-manual/block-playbook.md** - Aligned Step 4 text to match the new filenames for tracking shared public assets and outside messaging.
+* **front-porch-manual/spreadsheet-blueprint.md** - Corrected Section 2's header breakdown to match the exact column names chosen for our community ledger templates.
+* **front-porch-manual/neighborhood-toolkit-template.csv** - Set up clean header rows using casual location markers and simple, non-identifying neighbor placeholders.
+* **front-porch-manual/exchange-log-template.csv** - Restored the simple, original neighbor-to-neighbor layout columns and entries exactly as built by the block.
+* **neighborhood-index/README.md** - Cleaned up the guide by removing a redundant overview section and added a direct link to the street template.
+* **neighborhood-index/neighborhood-index-template.csv** - Renamed from `public-assets-template.csv` to match standard project naming conventions, switched terms from "assets" to "resources," and simplified columns.
+* **tracking-the-blueprint/README.md** - Shifted text to focus entirely on analyzing outside pressures, removed technical policy terms, and cut out the regional data section.
+* **tracking-the-blueprint/big-picture-framework.md** - Renamed from `blueprint-tracker.md` to match its purpose as a straightforward guide for examining outside messaging.
