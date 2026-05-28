@@ -2,7 +2,7 @@
 
 Hey neighbor! Welcome to the workshop side of **Neighborhood Lab DSM**. 
 
-The whole point of this project is to build simple, down-to-earth tools that help our central Iowa blocks become more self-reliant, connected, and protective of each other's privacy. We keep everything open-source and free, and we are incredibly glad you are looking to help us sweep the porch or sharpen the tools.
+The whole point of this project is to build simple, down-to-earth tools that help our central Iowa blocks become more self-reliant, connected, and protective of each other's privacy. Following the framework pioneered by Dr. Ralph Bunche, we believe real progress happens when tools are accessible to everyday people rather than hidden behind elite specialties. We keep everything open-source and free, and we are incredibly glad you are looking to help us sweep the porch or sharpen the tools.
 
 You don't need to be a software developer or a tech wizard to pitch in here. Whether you found a typo, have a better way to layout a spreadsheet, or want to add open community spaces to our lists, your help is always welcome.
 
@@ -14,7 +14,7 @@ You don't need to be a software developer or a tech wizard to pitch in here. Whe
 If you know of a great public resource in Des Moines—like a local tool lending library, a community garden lot with a public water spigot, or a free legal aid clinic—you can help us add it to **The Neighborhood Index**. Just check out our blank spreadsheet templates and help us fill in the rows with clear, verified local details.
 
 ### 2. Polishing our Playbooks
-Read through **The Front Porch Manual** or **The Blueprint Tracker**. If something sounds too much like a stuffy city hall brochure or a textbook memo, let us know! We want our guides to read like a casual conversation over a backyard fence, so any help simplifying the language is a huge win.
+Read through **The Block Playbook** or **The Blueprint Tracker**. If something sounds too much like a stuffy city hall brochure or a textbook memo, let us know! We want our guides to read like a casual conversation over a backyard fence, so any help simplifying the language is a huge win.
 
 ### 3. Fixing Bugs and Links
 If you are comfortable using GitHub and notice a broken relative web link or a formatting error, feel free to open an Issue or send over a Pull Request to patch it up.
