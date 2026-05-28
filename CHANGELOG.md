@@ -1,41 +1,31 @@
-# Project Changes
+# Notebook Updates (Changelog)
 
-All notable updates to this project are recorded here. This project follows standard semantic versioning rules.
+This is our shared logbook where we keep track of the changes, fixes, and new tools we add to our neighborhood workshop. We use basic version numbers (`vMAJOR.MINOR.PATCH`) to show how the project is growing.
+
+---
+
+## [1.4.0] - 2026-05-28
+
+### What We Added
+- **The Blueprint Tracker:** Put together a brand-new, completely original research guide (`tracking-the-blueprint/blueprint-tracker.md`). We took a complicated, top-down textbook framework, ran it through our project blender, and came out with a straightforward "Everyday Impact" log that anyone can use to see how big city hall decisions affect their actual property lines.
+- **Our Substack Blueprint:** Tucked a quick guide (`SUBSTACK-BLUEPRINT.md`) right into our main root folder. It lays out our publication rules, our short word limits, and our five main section taglines so anyone else can easily copy our setup for their own street.
+- **The Front Porch Welcome Pack:** Finished the final text drafts for all 5 of our introductory newsletter posts, systematically washing away every bit of academic, activist, and institutional jargon.
+
+### What We Changed
+- **Smoothing Out the Links:** Cleaned up the web links inside our Substack posts. Now, clicking a topic always takes neighbors straight to that section's entire workshop folder (`/front-porch-manual/`, `/neighborhood-index/`, and `/tracking-the-blueprint/`) instead of dropping them onto a single file. This gives folks a much better view of all the spreadsheets and templates waiting for them.
+- **The Lone Stand Exception:** Kept our main philosophy file (`our-approach.md`) linking straight to the file itself, since it sits freely in our main root directory without its own separate drawer.
+- **Cleaning Up Folder Titles:** Standardized the main headers inside our directory introduction files. We dropped the technical placeholder labels and swapped them out for clean, friendly, human-readable section titles.
+- **Fixed a Broken Shortcut:** Caught and repaired a typo in the first paragraph of `front-porch-manual/spreadsheet-blueprint.md`. By explicitly writing out the double-dot link syntax (`[The Neighborhood Index](../neighborhood-index/README.md)`), neighbors can now hop cleanly between our folders on GitHub without hitting an annoying broken page error.
+
+### What We Removed
+- Cleaned out repetitive, promotional newsletter "pitches" from our raw GitHub workshop files. This keeps a strict division of labor: we keep our stories on the Substack front porch, and keep our GitHub space focused purely on clean, practical, everyday utility files.
+
+---
 
 ## [1.3.0] - 2026-05-25
 
-### Changed
-* **Link and Directory Streamlining:** Removed all parenthetical directory structures and fixed URL-encoded links containing messy symbols like percent codes. Simplified subfolders to use standard, direct relative paths pointing to clean files like tracking-the-blueprint/README.md, neighborhood-index/README.md, and front-porch-manual/README.md.
-* **Golden Thread Compliance:** Conducted a comprehensive scrub of all 8 primary markdown files and root-level assets to bridge our conversational Substack voice into our GitHub workshop environment.
-
-## [1.2.0] - 2026-05-25
-
-### Changed
-* **Template Optimization:** Adjusted neighborhood-toolkit-template.csv and exchange-log-template.csv to remove programmatic underscores from column headers, ensuring they look like standard, approachable spreadsheets when opened in Excel or LibreOffice.
-* **Header Language Fine-Tuning:** Swapped formal, rigid tracking terminology for a community-casual tone. Changed Wealth_Category to Resource Type, Specific_Asset_or_Capability to Description, Direct_Contact to Contact Method, and updated the exchange tracker column to Resource Shared.
-* **Spreadsheet Guide Alignment:** Overhauled spreadsheet-blueprint.md to reflect the new spreadsheet columns and emphasize privacy-first offline storage.
-* **Grounded Communication Examples:** Updated block-playbook.md and neighborhood-toolkit-template.csv with a more realistic alternative contact method: leaving a note taped to the front door or leaving a note on the front porch.
-
-## [1.1.0] - 2026-05-23
-
-### Added
-* Created our-approach.md in the root directory to house our core theoretical frameworks in one clear place.
-
-### Changed
-* **Folder Structure Overhaul:** Renamed the narrow policy-analysis/ folder to tracking-the-blueprint/ to give wide-ranging legal, political, and economic research more breathing room and align directly with our Substack essays.
-* **Language Polish:** Removed all professional jargon and academic phrasing from the data guides, shifting README (datasets).md to a non-specific neighborhood hub model called The Neighborhood Index.
-* **Streamlining Core Files:** Updated CONTRIBUTING.md and CODE_OF_CONDUCT.md to remove corporate phrasing and match our true backyard fence tone.
-
-## [1.0.0] - 2026-05-18
-
-### Added
-* Created the dedicated action folder front-porch-manual/ to house public-facing neighborhood tools separately from macro research tracking.
-* Added neighborhood-toolkit-template.csv as the standardized resource mapping template for block-level asset tracking.
-* Added exchange-log-template.csv to establish a decentralized self-reporting method for tracking neighbor hours.
-
-### Changed
-* **Term Renaming Overhaul:** Migrated project ecosystem vocabulary to finalized community-casual terms, removing institutional network metrics in favor of local block relationships.
-* Reorganized the repository root level to position Neighborhood Lab DSM as the primary research and data hub.
-* Cleaned repository file infrastructure by formatting template assets to lower-case, command-line optimized names.
-* Rewrote the main README.md to cleanly separate macro-level research from the street-level organizing folder.
-* Updated onboarding workflows for both local data researchers and street-level neighbors.
+### What We Added
+- Opened up the digital workshop by creating our very first folder map and main introduction file.
+- Set up our essential ground rules, helper guidelines, and our public domain dedication text so everything we build remains entirely free for the community.
+- Got the public database folder (`neighborhood-index/`) up and running with a blank starter sheet (`public-assets-template.csv`) loaded with three real-world local examples: the *Central Iowa Tool Library*, our local *Community Garden Lot*, and the *Neighborhood Legal Aid Desk*.
+- Built out the practical street manual folder (`front-porch-manual/`), packing it with our first step-by-step block playbooks, sharing grids, and simple templates to help neighbors log hours and borrow tools safely.
