@@ -1,6 +1,6 @@
 # Substack Blueprint
 
-This blueprint documents the writing guidelines, word counts, and layout for our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support their own local neighbor network.
+This blueprint documents the writing guidelines, word counts, and layout for our communication "front porch" at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support their own local neighbor network.
 
 ## "Front Porch" Word Counts
 We avoid lengthy, academic writing. Every post is like a brief, laid-back conversation on the sidewalk. To keep updates quick and respectful of time, we follow strict word counts that include our standard footer:
