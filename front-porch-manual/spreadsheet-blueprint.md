@@ -37,10 +37,10 @@ This decentralized mutual aid ledger tracks simple day-to-day coordination witho
 4.  `Resource Shared` — A quick, plain-spoken description of the help (e.g., *Lent chainsaw and safety gear* or *Two hours of welding help on broken porch gate*).
 5.  `Notes` — Simple context or status updates (e.g., *Returned clean and gassed up* or *Sat on porch and filled them out together*).
 
----
-
-## 3. The Neighborhood Index Standard
-
-When logging open community resources for our public database (such as tool libraries or neighborhood lot water spigots), maintain clean rows with empty fields left blank. Do not add programmatic markers like trailing commas or placeholder text. 
-
-We publish these formatting guidelines on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) to ensure any independent organizer can fork or reproduce these files to support their own self-reliant neighbor networks.
+### The Neighborhood Index Template (`neighborhood-index-template.csv`)
+This layout catalogs open, shared community resources available to the entire neighborhood space, focusing on physical infrastructure rather than individual households:
+1.  `Resource Name` — The clear title of the public asset (e.g., *DMPL Community Fridge* or *DMPL Seed Library*).
+2.  `Resource Type` — The structural category of the asset (e.g., *Food Pantry* or *Community Garden Resource*).
+3.  `Location` — The specific street address, library branch, or intersection where it is hosted (e.g., *1000 Grand Ave (Central Library)* or *2559 Hubbell Ave (East Side Library)*).
+4.  `Availability Notes` — Access rules or seasonal parameters (e.g., *Accessible during regular library operating hours* or *Available during spring and summer seasons*).
+5.  `Last Verified` — The exact date the resource's existence and operational status were confirmed by a local coordinator.
