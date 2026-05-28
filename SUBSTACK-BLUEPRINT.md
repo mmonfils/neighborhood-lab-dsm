@@ -1,4 +1,4 @@
-# Substack Layout Architecture
+# The Substack Blueprint
 
 This blueprint documents the editorial framework, word budgets, and publication sections governing our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork this communication strategy to support localized neighbor networks.
 
