@@ -5,6 +5,6 @@ True stories, tips, and free templates showing how local block grids look after 
 ## Practical Tools & Blueprints
 *   `block-playbook.md`: Step-by-step organizing guide and privacy rules.
 *   `spreadsheet-blueprint.md`: Data formatting guidelines and column definitions for local tracking.
-*   `sharing-tasks-fairly.md`: Simple protocols for rotating community responsibilities smoothly.
+*   `sharing-tasks-fairly.md`: Simple protocols for smooth rotation of tasks.
 *   `neighborhood-toolkit-template.csv`: Standardized blank layout for mapping block tools, skills, and knowledge.
-*   `exchange-log-template.csv`: A decentralized mutual aid ledger for tracking borrowed items and shared hours.
+*   `exchange-log-template.csv`: A basic tracker for mutual aid, borrowed items, and shared hours.
