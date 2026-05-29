@@ -5,7 +5,7 @@ This playbook is a practical step-by-step guide for setting up an independent, s
 ---
 
 ### Step 1: Walk Your Block
-Before opening a spreadsheet, open a conversation. Spend time walking your street or apartment hallway. Talk with your immediate neighbors over the fence or on the porch to understand the shared interests, immediate needs, and character of the block.
+If there isn't already an ongoing link between the people in your area, then start by opening a conversation. Spend time walking your street or apartment hallway. Talk with your immediate neighbors over the fence or on the porch to understand the shared interests, immediate needs, and character of the block.
 
 ### Step 2: Create an Easy Starting Point
 Use a simple, offline document to start coordinating neighbors. Agree on an accessible method to communicate such as a group chat over text or Signal. Real progress happens with easy access so that everyday people, not outside experts, can safely run their own networks. 
