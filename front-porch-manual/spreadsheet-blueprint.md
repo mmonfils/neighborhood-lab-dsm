@@ -1,22 +1,22 @@
 # Spreadsheet Blueprint
 
-This guide ensures our community-built files stay simple, accessible, and completely safe for our neighbors to use. When we build spreadsheets for the block, we follow common-sense rules to make sure anyone can open them on an old computer using free, offline software. 
+This guide ensures our community-built files stay simple, accessible, and completely safe for our neighbors to use. When we build spreadsheets for the block, we follow common-sense rules to make sure anyone can open them on any computer using free, offline software. 
 
-Following the diplomatic and respectful framework of Dr. Ralph Bunche, we prioritize low barriers to entry and maximum transparency. We make tools for everyday people, not elite specialists or corporate databases.
+Following the diplomatic and respectful framework of Dr. Ralph Bunche, we make transparency and low barriers to entry a priority. We make tools for everyday people, not just outside experts.
 
 ---
 
 ## 1. Safety and Privacy Protections
 
-We protect neighbor data with the same care we use to watch over each other's backyards. Our tracking layouts enforce privacy by design:
+We keep personal information safe with the same care we use to watch out for the neighborhood. Our templates enforce privacy by design:
 
-*   **No Full Names:** Use casual, non-identifying labels like `Dave (Apt 3C)`, `Sarah (Apt 4B)`, or `Marcus (Yellow House)`. 
-*   **No Address Columns:** Never log specific street numbers, phone numbers, email addresses, or private financial details.
-*   **Keep Data Offline:** Keep all files stored safely on local home hard drives or printed on physical paper logs. We explicitly reject cloud links or centralized tracking programs that could expose household details to outside corporate or institutional organizations.
+*   **No Full Names:** Use informal, general labels like `Dave (Apt 3C)`, `Sarah (Apt 4B)`, or `Marcus (Yellow House)`. 
+*   **No Address Columns:** Never record specific street numbers, phone numbers, email addresses, or private financial details.
+*   **Keep Data Offline:** Keep all files stored safely on local computer hard drives or print them out on paper. We avoid cloud storage or third-party tracking programs that could leak household information to outside special interests.
 
 ---
 
-## 2. Core Column Frameworks
+## 2. Core Column Setup
 
 To keep files interchangeable across different block grids, use these standardized header titles exactly as written.
 
