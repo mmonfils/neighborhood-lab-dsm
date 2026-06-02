@@ -2,31 +2,32 @@
 
 This document lays out the core beliefs of our work and shows how they shape what we do every day on our blocks. We keep our language casual because these ideas belong on a front porch, not in a textbook. This approach keeps our focus local, protects our privacy, and helps us build real trust right on the block. 
 
-Our workspace is built on a solid historical foundation: Dr. Ralph Bunche's confidence in our shared capacity to do right. As a master diplomat, Dr. Bunche proved that lasting stability is built through common-sense understanding, human dignity, and mutual respect. His example inspires us to find empowerment in our community's own resources.
+Our workspace is built on a solid historical foundation inspired by Maria Pearson from Iowa. As a leader who stood up for community sovereignty and human dignity, she proved that lasting change starts when you take direct action right from your own front door. Her example reminds us to look right past institutional neglect and find real empowerment in our own neighborhood resources.
+
+## The Big Picture Connection
+We do not work in isolation. Our efforts are guided by the unified NL DSM Project Blueprint, which connects this workbench to three other initiatives in the Social Work Sandbox parent ecosystem. We are linked to The Brickyard Framework, 515 Main Street, and the parent Social Work Sandbox project. 
+
+Our main tether to these projects is democratic federalism. We call this our local focus. It means we believe that power belongs at the lowest, most local level possible, right on our residential blocks, while still keeping an eye on how our grids fit into the wider regional picture.
 
 ## 1. Building on What We Have (Local Wealth)
 
-Many outside organizations, institutional programs, and traditional charities look at our neighborhoods and only see problems to fix. They often start by looking at what’s missing, which can lead to bringing in outside experts or top-down funding to manage us.
+Many outside organizations, institutional programs, and traditional charities look at our neighborhoods and only see problems to fix. They often start by looking at what is missing, which can lead to bringing in outside experts or top down funding to manage us.
 
-Building from Dr. Bunche's approach, we do the exact opposite. We look at our blocks and see places that are already wealthy. We look at our blocks for what we have, not just what we need. We break this community wealth down into three simple areas:
+Building from Maria Pearson's example of grassroots sovereignty, we do the exact opposite. We look at our blocks and see places that are already wealthy. We look at our blocks for what we have, not just what we need. We break this community wealth down into three simple areas:
 1. **Tools:** The physical gear, open spaces, and shared hardware sitting in our garages and storage.
 2. **Skills:** The useful abilities we have, like cooking, building, translating, fixing cars, or caring for kids.
-3. **Knowledge:** Our deep understanding of local history, legal and financial systems, institutions, or other specialized areas.
+3. **Knowledge:** Our deep understanding of local history, community resources, and how to navigate outside systems.
 
-Instead of waiting for an outside program to save us after a winter storm or a heatwave, our templates help neighbors map out what is already here so we can coordinate and support each other right where we live using our own strengths.
+## 2. Absolute Privacy (Boundary Security)
 
-## 2. Decisions Belong on the Block (Decentralized Coordination)
+Real trust cannot exist if neighbors feel like they are being watched or cataloged by an outside system. Many modern tech tools and community apps rely on corporate cloud systems that collect private data, track locations, and share user details with outside interests.
 
-True, sustainable local networks are active and built on equal collaboration rather than one authority. Choices should be made at the level closest to where people actually live. Instead of relying on a centralized board or a distant regional committee to make rules for everyone, power stays decentralized. 
-
-We are not creating a single, centralized city-wide tracking system or a new organization to manage Des Moines neighborhoods. We are promoting a network of autonomous block grids. Smaller block groups handle their own day-to-day business, and they only team up with other blocks when a problem is too big for one street to handle on its own. 
-
-There is no central boss or city-wide database tracking everyone. Every block grid manages its own local files independently. If two blocks want to coordinate, they talk to each other directly as equals, neighbor-to-neighbor. This builds self-reliance and true independence from the ground up.
+We protect our neighborhoods by keeping our data strictly in neighbor hands. We use simple offline spreadsheets that can be printed out on paper or saved on a regular thumb drive. There is no central boss or city wide database tracking everyone. Every block grid manages its own local files independently. If two blocks want to coordinate, they talk to each other directly as equals, neighbor to neighbor. This builds self reliance and true independence from the ground up.
 
 ## 3. Seeing the Big Picture (Tracking the Blueprint)
 
-This is our way of looking at the world to see how large-scale forces shape our daily lives. Recent decades show a pattern of decisions made in corporate boardrooms, courts, and legislative halls as coordinated strategies to slowly rewrite the rules of local planning. It points to an intentional blueprint designed to shift decision-making power away from communities and into centralized hands. 
+This is our way of looking at the world to see how large scale forces shape our daily lives. Recent decades show a pattern of decisions made in corporate boardrooms, courts, and legislative halls as coordinated strategies to slowly rewrite the rules of local planning. It points to an intentional blueprint designed to shift decision making power away from communities and into centralized hands. 
 
-If you only look at your own front yard, you might miss these larger patterns. By tracking how these structural pressures operate, we can spot the changes coming before they reach our doorsteps. Tracking the blueprint isn't about red or blue politics. It is about looking at the structural choices coming out of city hall with clear eyes. 
+If you only look at your own front yard, you might miss these larger patterns. By tracking how these structural pressures operate, we can spot the changes coming before they reach our doorsteps. Tracking the blueprint is not about red or blue politics. It is about looking at the structural choices coming out of city hall with clear eyes. 
 
-Drawing from Dr. Bunche's mindset, the plain, objective facts can be set apart from emotional scorekeeping. We pursue that so our residential blocks can spot broad changes early and maintain our households in the face of special interests. We document these patterns on our [Substack newsletter](https://neighborhoodlabdsm.substack.com/) so everyone can learn to spot them in real time.
+Drawing from a mindset of unadorned tactical sovereignty, the plain facts can be set apart from emotional scorekeeping. We pursue that so our residential blocks can spot broad changes early and maintain our households in the face of special interests. We document these patterns on our Substack newsletter so everyone can learn to spot them in real time.
