@@ -1,14 +1,14 @@
 # Neighborhood Lab DSM
 
-A collection of free open-source templates and blueprints built to help Des Moines neighbors organize autonomous block grids, track shared resources locally, and protect their blocks early.
+A collection of free, open-source templates and blueprints built to help Des Moines neighbors organize autonomous block grids, track shared resources locally, and strengthen their blocks.
 
-Our tools lower the barrier to entry for community self-reliance. We aim for low-tech, transparent, and common-sense tools for everyday people, not outside specialists or corporate interests. 
+These blueprints make it simple to build local self-reliance. This project focuses on low-tech, transparent, and common-sense tools for everyday people, not outside experts or corporations.
 
 ## Our North Star
-This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as our anchor with a local focus. This common thread connects our street-level mapping with two other sister projects and the Social Work Sandbox umbrella:
-* Social Work Sandbox, the "parent" project for our shared grassroots methods.
-* 515 Main Street, which supports our local economy and community initiatives.
-* The Brickyard Framework, which engages with policy, the government, and our legal system.
+This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as an anchor with a local focus. This common thread connects street-level mapping with two sister projects under the Social Work Sandbox umbrella:
+* Social Work Sandbox: The parent project for our shared grassroots methods.
+* 515 Main Street: A framework focused on local economic self-reliance.
+* The Brickyard Framework: Clear tools for handling policy and systemic roadblocks.
 
 Inspired by the historic example of Maria Pearson (Running Moccasins) from Iowa, we believe in taking direct action right from our own front doors for grassroots community building.
 
@@ -22,6 +22,6 @@ For true stories, local organizing tips, and deep dives into how these block gri
   * `neighborhood-toolkit-template.csv`: Simple sheet for exchanging local resources.
   * `exchange-log-template.csv`: Basic layout for logging mutual aid between neighbors.
 * `neighborhood-index/`: Processes for tracking open public community resources in the wider neighborhood area.
-  * `neighborhood-index-template.csv`: Template for sharing public resources like community fridges, seed libraries, or tools.
+  * `neighborhood-index-template.csv`: Template for sharing public resources like neighborhood pantries, community gardens, or a tool lending library.
 * `tracking-the-blueprint/`: Templates built to help neighbors look at the big picture trends.
-  * `big-picture-framework.md`: A clear framework to document external patterns, structural changes, and neighborhood transitions.
+  * `big-picture-framework.md`: A clear approach to sort through outside development, large-scale changes, and neighborhood transitions.
