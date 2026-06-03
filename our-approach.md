@@ -2,12 +2,12 @@
 
 This document lays out the core beliefs of our work and shows how they shape what we do every day on our blocks. We keep our language casual because these ideas belong on a front porch, not in a textbook. This approach keeps our focus local, protects our privacy, and helps us build real trust right on the block. 
 
-Our workspace is built on a solid historical foundation inspired by Maria Pearson from Iowa. As a leader who stood up for community sovereignty and human dignity, she proved that lasting change starts when you take direct action right from your own front door. Her example reminds us to look right past institutional neglect and find real empowerment in our own neighborhood resources.
+Our work is built on a solid historical foundation inspired by Maria Pearson from Iowa. As a leader who stood up for human dignity and community strength, she proved that lasting change starts when you take direct action right from your own front door. Her example inspires us to challenge flawed systems and find real empowerment in our own neighborhood resources.
 
 ## The Big Picture Connection
-We do not work in isolation. Our efforts are guided by the unified NL DSM Project Blueprint, which connects this workbench to three other initiatives in the Social Work Sandbox parent ecosystem. We are linked to The Brickyard Framework, 515 Main Street, and the parent Social Work Sandbox project. 
+We do not work in isolation. Our efforts are guided by a unique project blueprint, which connects this initiative to two sister projects and the Social Work Sandbox umbrella. We are linked to 515 Main Street, The Brickyard Framework, and the Social Work Sandbox "parent" project. 
 
-Our main tether to these projects is democratic federalism. We call this our local focus. It means we believe that power belongs at the lowest, most local level possible, right on our residential blocks, while still keeping an eye on how our grids fit into the wider regional picture.
+Our common anchor for these projects is democratic federalism. We call this our local focus. It means we believe that power belongs at the lowest, most local level possible, right on our residential blocks, while still keeping an eye on how our grids fit into the larger picture of the surrounding region.
 
 ## 1. Building on What We Have (Local Wealth)
 
