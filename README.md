@@ -5,7 +5,7 @@ A collection of free open-source templates and blueprints built to help Des Moin
 Our tools lower the barrier to entry for community self-reliance. We aim for low-tech, transparent, and common-sense tools for everyday people, not outside specialists or corporate interests. 
 
 ## Our North Star
-This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as our anchor with a local focus. This common thread connects our street-level mapping with two other sister projects under the Social Work Sandbox umbrella:
+This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as our anchor with a local focus. This common thread connects our street-level mapping with two other sister projects and the Social Work Sandbox umbrella:
 * Social Work Sandbox, the "parent" project for our shared grassroots methods.
 * 515 Main Street, which supports our local economy and community initiatives.
 * The Brickyard Framework, which engages with policy, the government, and our legal system.
