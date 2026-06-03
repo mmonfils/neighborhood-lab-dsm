@@ -1,9 +1,9 @@
 # Substack Blueprint
 
-This blueprint documents the writing guidelines, word counts, and layout for our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support their own local neighbor network.
+This blueprint explains the writing guidelines, word counts, and layout for our communication front porch at the Substack newsletter. This file ensures that any independent organizer can reproduce or fork these notebook blueprints to support their own local neighbor network.
 
 ## Front Porch Word Counts
-We avoid lengthy, academic writing. Every post is like a brief, laid back conversation on the sidewalk. To keep updates quick and respectful of time, we follow strict word counts that include our standard footer:
+We avoid lengthy, academic writing. Every post is like a brief, laid-back conversation on the sidewalk. To keep updates quick and respectful of time, we follow strict word counts that include our standard footer:
 
 * **Basic Posts (At Least 300 Words Total):**
   * Body Text Target: 150 words.
@@ -19,14 +19,14 @@ We avoid lengthy, academic writing. Every post is like a brief, laid back conver
 2. **Our Approach (The Philosophical Anchor)**
    * Subtitle: Casual deep dives into why we trust backyards over big systems.
 3. **Tracking the Blueprint (The Community Research Space)**
-   * Subtitle: Porch style breakdowns of how top down money, laws, and policy shifts trickle down to central Iowa streets.
+   * Subtitle: Porch-style breakdowns of how top-down money, laws, and policy shifts trickle down to central Iowa streets.
 4. **The Front Porch Manual (The Practical Toolkit)**
    * Subtitle: True stories, tips, and free templates showing how local block grids look after each other.
 5. **The Neighborhood Index (The Open Public Database)**
    * Subtitle: Simple spreadsheet guidelines for keeping track of public community hubs and open resources.
 
 ## Standard Article Footer (150 Words)
-The following text must be added to the bottom of every Substack post to connect readers with the workshop:
+The following text must be added to the bottom of every Substack post to connect readers with the GitHub Workshop:
 
 ***
 
