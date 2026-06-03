@@ -1,6 +1,6 @@
 # Contributing to Neighborhood Lab DSM
 
-We appreciate anyone looking to help build our shared block strength. Following the direct and respectful approach of Maria Pearson, we believe real progress happens when we lower barriers to entry so that everyday people, not special interests or outside specialists, can safely coordinate their own blocks.
+We appreciate anyone looking to help build our shared block strength. Following the direct and respectful approach of Maria Pearson, we believe real progress happens when we lower barriers to entry so that everyday people, not outside experts or corporations, can safely coordinate their own blocks.
 
 ---
 
