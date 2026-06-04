@@ -2,7 +2,7 @@
 
 Welcome to our collection of free, open-source tools built to help neighborhoods organize, track shared resources locally, and strengthen their blocks.
 
-These tools make it simple to build local self-reliance - completely free of money and politics. This project focuses on low-tech, transparent, and common-sense templates for everyday use.
+These tools make it simple to build local self-reliance, offered independent of money and politics. This project focuses on low-tech, transparent, and common-sense templates for everyday use.
 
 ## Our North Star
 This project guides its work by following a custom blueprint. With this approach, democratic federalism serves as an anchor with a local focus as the common thread. **Neighborhood Lab DSM** sits under our main umbrella project, **Social Work Sandbox** - the home for our shared grassroots methods. This runs alongside two other sub-projects:
