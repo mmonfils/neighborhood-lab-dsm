@@ -18,10 +18,10 @@ For true stories, local organizing tips, and deep dives into how these block gri
 
 ## Directory Overview
 
-* `front-porch-manual/`: Guides for setting up an independent block network. Contains our step by step organizing playbooks, simple task rotation, and formatting guidelines.
+* `front-porch-manual/`: Guides for setting up an independent block network. Contains our step-by-step organizing playbooks, simple task rotation, and formatting guidelines.
   * `neighborhood-toolkit-template.csv`: Simple sheet for exchanging local resources.
   * `exchange-log-template.csv`: Basic layout for logging mutual aid between neighbors.
 * `neighborhood-index/`: Processes for tracking open public community resources in the wider neighborhood area.
-  * `neighborhood-index-template.csv`: Template for sharing public resources like neighborhood pantries, community gardens, or a tool lending library.
+  * `neighborhood-index-template.csv`: Template for sharing public resources such as neighborhood pantries, community gardens, or a tool lending library.
 * `tracking-the-blueprint/`: Templates built to help neighbors look at the big picture trends.
   * `big-picture-framework.md`: A clear approach to sort through outside development, large-scale changes, and neighborhood transitions.
