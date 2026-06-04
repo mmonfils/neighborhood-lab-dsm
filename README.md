@@ -1,14 +1,15 @@
 # Neighborhood Lab DSM
 
-A collection of free, open-source templates and blueprints built to help Des Moines neighbors organize autonomous block grids, track shared resources locally, and strengthen their blocks.
+A collection of free, open-source tools built to help neighborhoods organize, track shared resources locally, and strengthen their blocks.
 
-These blueprints make it simple to build local self-reliance - completely free of money and politics. This project focuses on low-tech, transparent, and common-sense tools for everyday use.
+These tools make it simple to build local self-reliance - completely free of money and politics. This project focuses on low-tech, transparent, and common-sense templates for everyday use.
 
 ## Our North Star
-This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as an anchor with a local focus. This common thread connects street-level mapping with two sister projects and the Social Work Sandbox umbrella:
-* Social Work Sandbox: The parent project for our shared grassroots methods.
-* 515 Main Street: A framework focused on local economic self-reliance.
-* The Brickyard Framework: Clear tools for handling policy and systemic roadblocks.
+This project guides its work by following a custom blueprint. With this approach, democratic federalism serves as an anchor with a local focus as the common thread. Neighborhood Lab DSM sits under our main umbrella project, **Social Work Sandbox** - the home for our shared grassroots methods. It runs alongside two other sub-projects:
+
+*   **515 Main Street:** Resources focused on local economic well-being.
+*   **The Brickyard Framework:** Tools for addressing public policy and systemic roadblocks.
+
 
 Inspired by the historic example of Maria Pearson (Running Moccasins) from Iowa, we believe in taking direct action right from our own front doors for grassroots community building.
 
