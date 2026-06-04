@@ -1,6 +1,6 @@
 # Neighborhood Lab DSM
 
-A collection of free, open-source tools built to help neighborhoods organize, track shared resources locally, and strengthen their blocks.
+Welcome to our collection of free, open-source tools built to help neighborhoods organize, track shared resources locally, and strengthen their blocks.
 
 These tools make it simple to build local self-reliance - completely free of money and politics. This project focuses on low-tech, transparent, and common-sense templates for everyday use.
 
