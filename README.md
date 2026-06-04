@@ -5,7 +5,7 @@ A collection of free, open-source templates and blueprints built to help Des Moi
 These blueprints make it simple to build local self-reliance. This project focuses on low-tech, transparent, and common-sense tools for everyday people.
 
 ## Our North Star
-This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as an anchor with a local focus. This common thread connects street-level mapping with two sister projects under the Social Work Sandbox umbrella:
+This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as an anchor with a local focus. This common thread connects street-level mapping with two sister projects and the Social Work Sandbox umbrella:
 * Social Work Sandbox: The parent project for our shared grassroots methods.
 * 515 Main Street: A framework focused on local economic self-reliance.
 * The Brickyard Framework: Clear tools for handling policy and systemic roadblocks.
