@@ -11,7 +11,7 @@ This project guides its work by following a custom blueprint. With this approach
 *   **The Brickyard Framework:** Tools for addressing public policy and systemic roadblocks.
 
 
-Inspired by the historic example of Maria Pearson (Running Moccasins) from Iowa, we believe in taking direct action right from our own front doors for grassroots community building.
+Inspired by the historic example of Maria Pearson (Running Moccasins) from Iowa, we believe in taking direct action right where we live for cross-cultural community building.
 
 For true stories, local organizing tips, and deep dives into how these block grids operate on our streets, subscribe to our Substack newsletter.
 
