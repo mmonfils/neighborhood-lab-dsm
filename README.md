@@ -2,7 +2,7 @@
 
 A collection of free, open-source templates and blueprints built to help Des Moines neighbors organize autonomous block grids, track shared resources locally, and strengthen their blocks.
 
-These blueprints make it simple to build local self-reliance. This project focuses on low-tech, transparent, and common-sense tools for everyday people, not outside experts or corporations.
+These blueprints make it simple to build local self-reliance. This project focuses on low-tech, transparent, and common-sense tools for everyday people.
 
 ## Our North Star
 This project guides its work by following a unique project blueprint. With this approach, democratic federalism serves as an anchor with a local focus. This common thread connects street-level mapping with two sister projects under the Social Work Sandbox umbrella:
