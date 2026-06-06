@@ -26,7 +26,7 @@ This sheet lists what a block already has, focusing completely on shared local s
 * `Contact Method`
 * `Last Checked`
 
-#### Exchange Log Template (`exchange-log-template.csv`)
+### Exchange Log Template (`exchange-log-template.csv`)
 This sheet records how tools and support move between neighbors without having a gatekeeper:
 * `Date`
 * `Household Giving`
@@ -34,7 +34,7 @@ This sheet records how tools and support move between neighbors without having a
 * `Resource Shared`
 * `Notes`
 
-#### Neighborhood Index Template (`neighborhood-index-template.csv`)
+### Neighborhood Index Template (`neighborhood-index-template.csv`)
 This sheet keeps track of public spots and shared resources, focusing on neighborhood spaces instead of individual households:
 * `Resource Name`
 * `Resource Type`
