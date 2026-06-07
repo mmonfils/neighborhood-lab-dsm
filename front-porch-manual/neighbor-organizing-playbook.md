@@ -1,10 +1,10 @@
 # Neighbor Organizing Playbook
-This playbook is a practical step-by-step guide for setting up a self-reliant block network. Inspired by Maria Pearson's dedication to grassroots community building, this approach avoids red tape and puts the planning directly back on the front porch where it belongs.
+This playbook is a practical step-by-step guide for setting up a self-reliant network. Inspired by Maria Pearson's dedication to grassroots community building, this approach avoids red tape and puts the planning directly back in local hands where it belongs.
 
 ---
 
-### Step 1: Walk Your Block
-If there isn't already an ongoing link between the people in your area, then start by opening a conversation. Spend time walking your street or apartment hallway. Talk with your immediate neighbors over the fence or on the porch to understand the shared interests, immediate needs, and character of the block.
+### Step 1: Form Connections
+If there isn't already an ongoing link between the people in your area, then start by opening a conversation. Spend time going around your street or apartment hallway. Talk with your immediate neighbors over the fence or on the porch to understand the shared interests, immediate needs, and character of the block.
 
 ### Step 2: Create an Easy Starting Point
 Use a simple, offline contact list to start coordinating neighbors. Agree on an accessible method to communicate, such as a group chat over text or Signal. Real progress happens with easy access so that everyday people, not outside experts, can safely run their own networks.
