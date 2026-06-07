@@ -4,9 +4,10 @@ Notable updates made to our neighborhood tools and templates, recorded in plain 
 
 ---
 
-* **README (root).md** - Updated the directory map to show the new simplified folder layout and updated all template filenames.
+* **Project Transition** - Marked the official completion of the publication phase and transitioned the Neighborhood Lab DSM project into the active implementation phase.
+* **README.md** - Updated the directory map to show the new simplified folder layout and updated all template filenames.
 * **CONTRIBUTING.md** - Removed institutional jargon and updated all file and framework name cross-references.
-* **front-porch-manual/block-playbook.md** - Aligned Step 4 text to match the new filenames for tracking shared public assets and outside messaging.
+* **front-porch-manual/neighbor-organizing-playbook.md** - Renamed from `block-playbook.md` and aligned Step 4 text to match the new filenames for tracking shared public assets and outside messaging.
 * **front-porch-manual/spreadsheet-blueprint.md** - Corrected Section 2's header breakdown to match the exact column names chosen for our community ledger templates.
 * **front-porch-manual/neighborhood-toolkit-template.csv** - Set up clean header rows using casual location markers and simple, non-identifying neighbor placeholders.
 * **front-porch-manual/exchange-log-template.csv** - Restored the simple, original neighbor-to-neighbor layout columns and entries exactly as built by the block.
