@@ -1,5 +1,5 @@
 # Spreadsheet Blueprint
-This guide ensures community-built files stay simple, accessible, and completely safe for neighbors to use. When building spreadsheets for a block, follow common-sense rules to make sure anyone can open them on any computer using free, offline software. Inspired by Maria Pearson's example of grassroots community building, this approach focuses on keeping things clear and easy to join. These tools are built for everyday people, not just outside experts.
+This guide ensures community-built files stay simple, accessible, and completely safe for neighbors to use. When building spreadsheets for a neighborhood, follow common-sense rules to make sure anyone can open them on any computer using free, offline software. Inspired by Maria Pearson's example of grassroots community building, this approach focuses on keeping things clear and easy to join. These tools are built for everyday people, not just outside experts.
 
 ---
 
@@ -15,10 +15,10 @@ Keeping personal information safe is just part of watching out for the neighborh
 
 ## 2. How to Set Up Your Columns
 
-To keep these sheets easy to use across different blocks, stick to these column headers.
+To keep these sheets easy to use across different locations, stick to these column headers.
 
-### Neighborhood Toolkit Template (`neighborhood-toolkit-template.csv`)
-This sheet lists what a block already has, focusing completely on shared local strengths:
+### Neighborhood Toolkit Template
+This sheet lists what a group of neighbors already have, focusing completely on shared local strengths:
 * `Household Name (Location)`
 * `Resource Type`
 * `Description`
@@ -26,7 +26,7 @@ This sheet lists what a block already has, focusing completely on shared local s
 * `Contact Method`
 * `Last Checked`
 
-### Exchange Log Template (`exchange-log-template.csv`)
+### Exchange Log Template
 This sheet records how tools and support move between neighbors without having a gatekeeper:
 * `Date`
 * `Household Giving`
@@ -34,8 +34,8 @@ This sheet records how tools and support move between neighbors without having a
 * `Resource Shared`
 * `Notes`
 
-### Neighborhood Index Template (`neighborhood-index-template.csv`)
-This sheet keeps track of public spots and shared resources, focusing on neighborhood spaces instead of individual households:
+### Neighborhood Index Template
+This sheet keeps track of public spots and shared resources, focusing on nearby local spaces instead of individual households:
 * `Resource Name`
 * `Resource Type`
 * `Location`
