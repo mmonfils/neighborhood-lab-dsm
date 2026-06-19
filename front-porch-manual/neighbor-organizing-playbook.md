@@ -1,5 +1,5 @@
 # Neighbor Organizing Playbook
-This playbook is a practical step-by-step guide for setting up a self-reliant network. Inspired by Maria Pearson's dedication to grassroots community building, this approach avoids red tape and puts the planning directly back in local hands where it belongs.
+This playbook is a practical step-by-step guide for setting up a self-reliant network. This approach avoids red tape and puts the planning directly back in local hands where it belongs.
 
 ---
 
